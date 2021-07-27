@@ -1,0 +1,1 @@
+# OpenDataSicilia-per-il-Coronavirus
