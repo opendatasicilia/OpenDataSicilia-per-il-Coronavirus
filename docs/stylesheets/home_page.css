@@ -1,15 +1,15 @@
-
+/*
 *,
 *::before,
 *::after {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
+*/
 
-
-article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+/*article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
-}
+}*/
 
 
 [tabindex="-1"]:focus {
@@ -119,12 +119,12 @@ caption {
 th {
   text-align: inherit;
 }
-
+/*
 label {
   display: inline-block;
   margin-bottom: 0.5rem;
 }
-
+*/
 button {
   border-radius: 0;
 }
@@ -3378,7 +3378,7 @@ input[type="button"].btn-block {
 .dropdown-menu.show {
   display: block;
 }
-
+/*
 .dropdown-header {
   display: block;
   padding: 0.5rem 1.5rem;
@@ -3528,7 +3528,7 @@ input[type="button"].btn-block {
   clip: rect(0, 0, 0, 0);
   pointer-events: none;
 }
-
+*/
 .input-group {
   position: relative;
   display: -webkit-box;
@@ -4809,7 +4809,7 @@ input[type="button"].btn-block {
 .card-link + .card-link {
   margin-left: 1.25rem;
 }
-
+/*
 .card-header {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
@@ -4819,8 +4819,8 @@ input[type="button"].btn-block {
 
 .card-header:first-child {
   border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
-}
-
+}*/
+/*
 .card-header + .list-group .list-group-item:first-child {
   border-top: 0;
 }
@@ -4846,7 +4846,7 @@ input[type="button"].btn-block {
   margin-right: -0.625rem;
   margin-left: -0.625rem;
 }
-
+*/
 .card-img-overlay {
   position: absolute;
   top: 0;
@@ -4926,7 +4926,7 @@ input[type="button"].btn-block {
 .card-group > .card {
   margin-bottom: 15px;
 }
-
+/*
 @media (min-width: 576px) {
   .card-group {
     -webkit-box-orient: horizontal;
@@ -4992,10 +4992,10 @@ input[type="button"].btn-block {
 .accordion > .card {
   overflow: hidden;
 }
-
+/*
 .accordion > .card:not(:first-of-type) .card-header:first-child {
   border-radius: 0;
-}
+}*/
 
 .accordion > .card:not(:first-of-type):not(:last-of-type) {
   border-bottom: 0;
@@ -5012,7 +5012,7 @@ input[type="button"].btn-block {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
-
+/*
 .accordion > .card .card-header {
   margin-bottom: -1px;
 }
@@ -5060,7 +5060,7 @@ input[type="button"].btn-block {
   padding-left: 0;
   list-style: none;
   border-radius: 0.25rem;
-}
+}*/
 
 @media (prefers-reduced-motion: reduce) {
   .badge {
@@ -5857,7 +5857,7 @@ a.close.disabled {
   display: none;
 }
 
-.toast-header {
+/*.toast-header {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -5869,7 +5869,7 @@ a.close.disabled {
   background-color: rgba(255, 255, 255, 0.85);
   background-clip: padding-box;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-}
+}*/
 
 .toast-body {
   padding: 0.75rem;
@@ -5936,11 +5936,11 @@ a.close.disabled {
   overflow: hidden;
 }
 
-.modal-dialog-scrollable .modal-header,
+/*.modal-dialog-scrollable .modal-header,
 .modal-dialog-scrollable .modal-footer {
   -ms-flex-negative: 0;
   flex-shrink: 0;
-}
+}*/
 
 .modal-dialog-scrollable .modal-body {
   overflow-y: auto;
@@ -6017,6 +6017,7 @@ a.close.disabled {
   opacity: 0.5;
 }
 
+/*
 .modal-header {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -6036,7 +6037,7 @@ a.close.disabled {
 .modal-header .close {
   padding: 1rem 1rem;
   margin: -1rem -1rem -1rem auto;
-}
+}*/
 
 .modal-title {
   margin-bottom: 0;
@@ -6337,7 +6338,7 @@ a.close.disabled {
   border-bottom-color: #fff;
 }
 
-.bs-popover-bottom .popover-header::before, .bs-popover-auto[x-placement^="bottom"] .popover-header::before {
+/*.bs-popover-bottom .popover-header::before, .bs-popover-auto[x-placement^="bottom"] .popover-header::before {
   position: absolute;
   top: 0;
   left: 50%;
@@ -6347,7 +6348,7 @@ a.close.disabled {
   content: "";
   border-bottom: 1px solid #f7f7f7;
 }
-
+*/
 .bs-popover-left, .bs-popover-auto[x-placement^="left"] {
   margin-right: 0.5rem;
 }
@@ -6370,7 +6371,7 @@ a.close.disabled {
   border-width: 0.5rem 0 0.5rem 0.5rem;
   border-left-color: #fff;
 }
-
+/*
 .popover-header {
   padding: 0.5rem 0.75rem;
   margin-bottom: 0;
@@ -6383,7 +6384,7 @@ a.close.disabled {
 
 .popover-header:empty {
   display: none;
-}
+}*/
 
 .popover-body {
   padding: 0.5rem 0.75rem;
