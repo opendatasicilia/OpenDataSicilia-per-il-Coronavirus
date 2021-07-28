@@ -82,28 +82,26 @@
 
   <!-- Further information -->
   <div class="md-footer-meta md-typeset">
-    <div class="md-footer-meta__inner md-grid">
-
-      <!-- Copyright and theme information -->
-      <div class="md-footer-copyright">
-        {% if config.copyright %}
-          <div class="md-footer-copyright__highlight">
-            {{ config.copyright }}
-          </div>
-        {% endif %}
-       
-       Template by  <a href="https://twitter.com/gbvitrano" title="@gbvitrano " target="_blank">@gbvitrano</a> per <a href="https://twitter.com/opendatasicilia" title="@opendatasisilia " target="_blank">@opendatasisilia </a> | Realizzato con
-        <a
-          href="https://squidfunk.github.io/mkdocs-material/"
-          target="_blank" rel="noopener"
-        >
-          Material for MkDocs
-        </a> 
+   <div class="md-footer-meta__inner md-grid"> 
+ <div class="md-footer-copyright" >
+    <!-- menù top -->
+      {% for nav_item in nav %}
+       {% include "partials/tabs-item_footer.html" %}
+      {% endfor %}  
+      <!-- fine menù top --> 
+       <br> <br> 
+ <a href="http://opendatasicilia.it/" target="_blank">&nbsp;<img src="{{ config.site_url}}img/favicon.png" alt="" width="30" height="30" class="immagonobox" title="opendatasicilia.it"/></a> <a href="https://twitter.com/opendatasicilia" title="@opendatasisilia " target="_blank">@opendatasisilia </a>2021 <!-- -->|  {% if config.copyright %} {{ config.copyright }}  
+ </div>
+    <!-- Copyright and theme information -->
+  <!--    <div class="md-footer-copyright" >
+  <div class="md-footer-copyright__highlight"> 
+          </div> 
+        {% endif %}      
         {{ extracopyright }}
-      </div>
+      </div> -->
 
       <!-- Social links -->
       {% include "partials/social.html" %}
-    </div>
+    </div></div>
   </div>
 </footer>
