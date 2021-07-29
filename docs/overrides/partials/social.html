@@ -1,6 +1,12 @@
 {#-
   This file was automatically generated - do not edit
 -#}
+  <div class="md-footer-social">
+    <!-- menù top -->
+      {% for nav_item in nav %}
+       {% include "partials/tabs-item_footer.html" %}
+      {% endfor %}  
+      <!-- fine menù top --> 
 {% if config.extra.social %}
   <div class="md-footer-social">
     {% for social in config.extra.social %}
@@ -8,15 +14,11 @@
       {% if not title and "//" in social.link %}
         {% set _,url = social.link.split("//") %}
         {% set title = url.split("/")[0] %}
-      {% endif %}
+      {% endif %} 
       <a href="{{ social.link }}" target="_blank" rel="noopener" title="{{ title | e }}" class="md-footer-social__link">
         {% include ".icons/" ~ social.icon ~ ".svg" %}
       </a>
-   {% endfor %} 
-   <div class="md-footer-copyright" style="text-align: right">
-    Template by  <a href="https://twitter.com/gbvitrano" title="@gbvitrano " target="_blank">@gbvitrano</a> <br> 
-    Realizzato con <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener"> Material for MkDocs </a> 
-         </div>      
-          </div>
+   {% endfor %}<a href="http://opendatasicilia.it/" target="_blank">&nbsp;<img src="{{ config.site_url}}img/favicon.png" alt="" width="30" height="30" class="immagonobox" title="opendatasicilia.it"/></a> 
+   </div></div> 
 {% endif %}
  
