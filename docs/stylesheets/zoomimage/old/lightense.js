@@ -32,7 +32,7 @@ var Lightense = function Lightense() {
     offset: 40,
     keyboard: true,
     cubicBezier: 'cubic-bezier(.2, 0, .1, 1)',
-    background: 'var(--bg-color-80, rgba(255, 255, 255, .98))',
+    background: 'var(--bg-color-80, rgba(234, 234 234, .75))',
     zIndex: 1000000,
 
     /* eslint-disable no-undefined */
