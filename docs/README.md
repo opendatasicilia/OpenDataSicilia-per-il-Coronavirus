@@ -1,13 +1,13 @@
 # OpenDataSicilia-per-il-Coronavirus
 
-[![](docs/img/homepage.jpg)](https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/)
+[![](img/homepage.jpg)](https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/)
 
 # Principali risorse usate per realizzare il sito
 
 ## Software
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Notepad ++](https://notepad-plus-plus.org/downloads/)
-- [PicPick](https://picpick.app/it/)
+- [Screenpressok](https://www.screenpresso.com/f/)
 - [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/it/)
 
