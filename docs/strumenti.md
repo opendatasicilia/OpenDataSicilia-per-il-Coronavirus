@@ -9,7 +9,7 @@ hide:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Notepad ++](https://notepad-plus-plus.org/downloads/)
 - [PicPick](https://picpick.app/it/)
-- [GNU Image Manipulation Program (GIMP)](https://www.gimp.org/)
+- [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/it/)
 
 ## Static site generator
