@@ -7,7 +7,7 @@
 ## Software
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Notepad ++](https://notepad-plus-plus.org/downloads/)
-- [Screenpressok](https://www.screenpresso.com/f/)
+- [Screenpresso](https://www.screenpresso.com/f/)
 - [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/it/)
 
