@@ -1,6 +1,6 @@
 # OpenDataSicilia-per-il-Coronavirus
 
-[![](docs/img/homepage.jpg)](http://opendatasicilia.it/)
+[![](docs/img/homepage.jpg)](https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/)
 
 # Principali risorse usate per realizzare il sito
 
