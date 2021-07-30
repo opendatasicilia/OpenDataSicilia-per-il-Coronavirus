@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# I principali strumenti usati per realizzare il sito
+# Principali risorse usate per realizzare il sito
 
 - [MkDocs](https://www.mkdocs.org/)
 - [Material fopr MkDocs](https://squidfunk.github.io/mkdocs-material/)
