@@ -90,6 +90,23 @@ hide:
           </a>
         </div>
 		
+		<!--Farmacie vaccini anticovid -->
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="mappe/farm_vaccini_anticovid/" title="Vaccino anticovid | Farmacie aderenti alla campagna vaccinale"  target="_self">
+            <img class="img-fluid" src="img/farm_vaccino.png" alt="InformaCOVID">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">
+                Vaccino anticovid 
+              </div>
+              <div class="project-name">
+               Mappa farmacie aderenti alla campagna vaccinale
+              </div>
+            </div>
+          </a>
+        </div>	
+		
+		
+		
 			<!--<github -->
         <div class="col-lg-4 col-sm-6">
           <a class="portfolio-box" href="elaborazioni/repo_github/" title="In questa sezione vengono segnalati alcuni repository GitHub di enti pubblici e/o associazioni che condividono e rielaborano in opendata i dati #Covid19."  target="_self">

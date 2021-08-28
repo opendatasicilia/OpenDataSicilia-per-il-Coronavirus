@@ -156,9 +156,11 @@ nav:
         - onData: elaborazioni/ondata.md
         - OpenDataSicilia: elaborazioni/ods.md
         - Repo GitHub: elaborazioni/repo_github.md
-        
+    - Mappe:
+        - Palermo | farmacie aderenti vaccino anticovid : mappe/farm_vaccini_anticovid.md
+        - Dashboard Guenter Richter: mappe/mappa_vaccini_gjrichter.md
     - Vaccini Sicilia: vaccini/sit_vaccini.md
-            
+                
     - InformaCOVID: info_covid/informa_covid.md
 
     - About:
