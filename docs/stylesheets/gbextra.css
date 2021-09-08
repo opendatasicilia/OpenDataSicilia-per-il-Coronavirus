@@ -4,7 +4,7 @@
 
 /* barra laterale toc integrata*/
 @media screen and (min-width:  76.25em){
-.md-nav--integrated .md-nav__link[for=__toc]~.md-nav {border-left: .1rem solid #f44336!important; display: block;     margin-bottom: 1.5em!important; /* border-left: .05rem solid var(--md-primary-fg-color); */
+.md-nav--integrated .md-nav__link[for=__toc]~.md-nav {border-left: .1rem dashed #f44336!important; display: block;     margin-bottom: 1.5em!important; /* border-left: .05rem solid var(--md-primary-fg-color); */
 }} 
 
 /* forza il back to top a tornare in basso */
