@@ -347,3 +347,10 @@ hr  {border: 0;
 .md-tabs__linkfooter:hover {
     color: var(--md-accent-fg-color);
 }
+
+@media screen and (min-width: 76.25em)
+.md-nav--integrated .md-nav__link[for=__toc]~.md-nav {
+        border-left: .05rem solid #f44336;
+    display: block;
+    margin-bottom: 1.5em;
+}
