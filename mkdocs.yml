@@ -52,6 +52,9 @@ theme:
     - navigation.top
     - navigation.instant
     - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - search.share
 
   palette:
     - scheme: default
@@ -88,7 +91,8 @@ theme:
   
 
 plugins:
-- search
+- search:
+    prebuild_index: true
 - mkdocstrings
 - autolinks
 - macros  
