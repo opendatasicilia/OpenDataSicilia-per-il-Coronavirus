@@ -2,6 +2,15 @@
 /*@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");*/
 @import url("https://fontlibrary.org/face/trueno");
 
+/* barra laterale toc integrata*/
+@media screen and (min-width: 76.25em)
+.md-nav--integrated .md-nav__link[for=__toc]~.md-nav {
+	/* border-left: .05rem solid var(--md-primary-fg-color); */
+    border-left: .1rem solid #f44336;
+    display: block;
+    margin-bottom: 1.5em;
+}
+
 /* forza il back to top a tornare in basso */
 .md-top {
     background: var(--md-primary-fg-color); 
@@ -346,12 +355,4 @@ hr  {border: 0;
 }
 .md-tabs__linkfooter:hover {
     color: var(--md-accent-fg-color);
-}
-/* barra laterale toc integrata*/
-@media screen and (min-width: 76.25em)
-.md-nav--integrated .md-nav__link[for=__toc]~.md-nav {
-	/* border-left: .05rem solid var(--md-primary-fg-color); */
-    border-left: .1rem solid #f44336;
-    display: block;
-    margin-bottom: 1.5em;
 }
