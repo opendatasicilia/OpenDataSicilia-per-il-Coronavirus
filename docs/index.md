@@ -93,7 +93,7 @@ hide:
 		<!--Farmacie vaccini anticovid -->
         <div class="col-lg-4 col-sm-6">
           <a class="portfolio-box" href="mappe/farm_vaccini_anticovid/" title="Vaccino anticovid | Farmacie aderenti alla campagna vaccinale"  target="_self">
-            <img class="img-fluid" src="img/farm_vaccino.png" alt="InformaCOVID">
+            <img class="img-fluid" src="img/farm_vaccino.png" alt="vaccini anticovid">
             <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
                 Vaccino anticovid 
@@ -105,7 +105,20 @@ hide:
           </a>
         </div>	
 		
-		
+			<!--InformaCOVID | Comuni che hanno aderito -->
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="mappe/mappa_comuni_informacovid/" title="InformaCOVID | Comuni che hanno aderito"  target="_self">
+            <img class="img-fluid" src="img/informacovid.png" alt="InformaCOVID">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">
+                InformaCOVID
+              </div>
+              <div class="project-name">
+               Comuni che hanno aderito
+              </div>
+            </div>
+          </a>
+        </div>		
 		
 			<!--<github -->
         <div class="col-lg-4 col-sm-6">
