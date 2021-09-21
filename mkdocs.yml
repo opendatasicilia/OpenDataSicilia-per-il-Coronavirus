@@ -164,7 +164,7 @@ nav:
     - Mappe:
         - Palermo | farmacie aderenti vaccino anticovid : mappe/farm_vaccini_anticovid.md
         - Dashboard Guenter Richter: mappe/mappa_vaccini_gjrichter.md
-        - InformaCOVID | Comuni che hanno aderito: mappe/mappa_comuni_informacovid
+        - InformaCOVID | Comuni che hanno aderito: mappe/mappa_comuni_informacovid.md
     - Vaccini Sicilia: vaccini/sit_vaccini.md
                 
     - InformaCOVID: info_covid/informa_covid.md
