@@ -135,6 +135,8 @@ markdown_extensions:
 - pymdownx.smartsymbols
 - admonition
 - pymdownx.details
+- pymdownx.tabbed
+    # alternate_style: true
 - pymdownx.tasklist:
       clickable_checkbox: true
 - pymdownx.emoji:
