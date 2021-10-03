@@ -124,25 +124,35 @@ markdown_extensions:
     permalink: ↵
 - meta        
 - mkdocs-click
-- pymdownx.highlight
-- pymdownx.superfences
-- pymdownx.tabbed
 - pymdownx.critic:
       mode: view
+- pymdownx.tasklist:
+      clickable_checkbox: true
+- pymdownx.arithmatex:
+      generic: true
 - pymdownx.betterem:
       smart_enable: all
 - pymdownx.caret
-- pymdownx.mark
-- pymdownx.tilde
-- pymdownx.smartsymbols
-- admonition
 - pymdownx.details
-- pymdownx.tabbed:
-- pymdownx.tasklist:
-      clickable_checkbox: true
 - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+- pymdownx.highlight
+- pymdownx.inlinehilite
+- pymdownx.keys
+- pymdownx.mark
+- pymdownx.smartsymbols
+- pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid-experimental
+          format: !!python/name:pymdownx.superfences.fence_code_format
+- pymdownx.tabbed:
+      alternate_style: true
+- pymdownx.tasklist:
+      custom_checkbox: true
+- pymdownx.tilde  
+- admonition
 - attr_list
 - def_list
 - abbr
