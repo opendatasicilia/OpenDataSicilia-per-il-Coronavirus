@@ -97,7 +97,8 @@ plugins:
     prebuild_index: true
 - mkdocstrings
 - autolinks
-- macros  
+- macros 
+- section-index
 # - blog
 # - img2fig
 
