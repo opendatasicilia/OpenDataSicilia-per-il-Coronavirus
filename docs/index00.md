@@ -1,3 +1,9 @@
+---
+title: Progetti OpenDataSicilia per il &#35;Coronavirus
+hide:
+  - navigation
+  - toc
+---
 <style> 
 .md-content__inner {padding-top: .5rem;  padding-bottom: .5rem; background-image:url({{ config.site_url}}img/covid19_sfondo.png);  background-repeat: no-repeat;  background-attachment: scroll;  background-position: center center;  background-size: contain;}
 /*.md-typeset .md-content__button {display: none!important; }*/

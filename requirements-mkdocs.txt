@@ -22,4 +22,3 @@ mkdocs-git-revision-date-localized-plugin
 mkdocs-windmill
 mkdocs-img2fig-plugin
 mkdocs-rss-plugin==0.13.0
-mkdocs-section-index
