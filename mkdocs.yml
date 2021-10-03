@@ -52,6 +52,7 @@ theme:
     - navigation.top
     - navigation.instant
     - navigation.tabs
+    - navigation.indexes
     - toc.integrate
     - search.suggest
     - search.highlight
