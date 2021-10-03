@@ -124,6 +124,7 @@ markdown_extensions:
 - mkdocs-click
 - pymdownx.highlight
 - pymdownx.superfences
+- pymdownx.tabbed
 - pymdownx.critic:
       mode: view
 - pymdownx.betterem:
@@ -135,7 +136,6 @@ markdown_extensions:
 - admonition
 - pymdownx.details
 - pymdownx.tabbed:
-      alternate_style: true
 - pymdownx.tasklist:
       clickable_checkbox: true
 - pymdownx.emoji:
