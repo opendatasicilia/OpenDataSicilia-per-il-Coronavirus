@@ -124,7 +124,6 @@ markdown_extensions:
 - mkdocs-click
 - pymdownx.highlight
 - pymdownx.superfences
-- pymdownx.tabbed
 - pymdownx.critic:
       mode: view
 - pymdownx.betterem:
@@ -135,8 +134,8 @@ markdown_extensions:
 - pymdownx.smartsymbols
 - admonition
 - pymdownx.details
-- pymdownx.tabbed
-    # alternate_style: true
+- pymdownx.tabbed:
+      alternate_style: true
 - pymdownx.tasklist:
       clickable_checkbox: true
 - pymdownx.emoji:
@@ -164,7 +163,7 @@ nav:
         - OpenDataSicilia: elaborazioni/ods.md
         - Repo GitHub: elaborazioni/repo_github.md
     - Mappe:
-        - Palermo | farmacie aderenti vaccino anticovid : mappe/farm_vaccini_anticovid.md
+        - Sicilia | ADESIONI CAMPAGNA VACCINALE - Strutture e Farmacie | 2021 : mappe/farm_vaccini_anticovid.md
         - Dashboard Guenter Richter: mappe/mappa_vaccini_gjrichter.md
         - InformaCOVID | Comuni che hanno aderito: mappe/mappa_comuni_informacovid.md
     - Vaccini Sicilia: vaccini/sit_vaccini.md
