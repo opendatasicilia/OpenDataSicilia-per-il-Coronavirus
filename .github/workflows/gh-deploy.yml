@@ -36,3 +36,4 @@ jobs:
       - run: pip install mkdocs-img2fig-plugin
       - run: pip install mkdocs-rss-plugin
       - run: mkdocs gh-deploy --force
+      - run: pip install mkdocs-section-index
