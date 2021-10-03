@@ -98,7 +98,7 @@ plugins:
 - mkdocstrings
 - autolinks
 - macros 
-- section-index
+# - section-index
 # - blog
 # - img2fig
 
@@ -147,8 +147,8 @@ markdown_extensions:
         - name: mermaid
           class: mermaid-experimental
           format: !!python/name:pymdownx.superfences.fence_code_format
-- pymdownx.tabbed:
-      alternate_style: true
+- pymdownx.tabbed
+      # alternate_style: true
 - pymdownx.tasklist:
       custom_checkbox: true
 - pymdownx.tilde  
