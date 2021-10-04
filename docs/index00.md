@@ -11,7 +11,7 @@ hide:
 .md-footer__inner {   display: none!important; }
 .md-typeset h5 {text-transform: none!important; color: #212529!important;}
 .md-typeset h3 { font-weight: bold!important; color: #212529!important;}
-</style
+</style>
 
 <body>
  <link href="stylesheets/home_page.css" rel="stylesheet">
