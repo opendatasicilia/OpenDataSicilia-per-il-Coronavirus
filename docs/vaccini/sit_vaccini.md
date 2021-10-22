@@ -1,7 +1,6 @@
 ---
 hide:
-  - navigation
-  - toc
+   - toc
 ---
 # Dashboard realizzate dalla community
 
@@ -23,7 +22,7 @@ Quando i dati sono disponibili (open, machine readable e con la licenza giusta) 
 
 ---
 
-<p align="center"> <a href="https://pigrecoinfinito.com/2021/07/15/dati-sulla-vaccinazione-in-sicilia/" target="_blank"><img src="{{ config.site_url}}img/gbvitrano_01.png" width="80%"  title="Dashboard realizzata da: Salvatore Fiandaca"></a><br><a href="https://pigrecoinfinito.com/2021/07/15/dati-sulla-vaccinazione-in-sicilia/" title="Dashboard realizzata da: Salvatore Fiandaca" target="_blank">Dashboard realizzata da: Salvatore Fiandaca</a>
+<p align="center"> <a href="https://pigrecoinfinito.com/2021/07/15/dati-sulla-vaccinazione-in-sicilia/" target="_blank"><img src="{{ config.site_url}}img/s_fiandaca.png" width="80%"  title="Dashboard realizzata da: Salvatore Fiandaca"></a><br><a href="https://pigrecoinfinito.com/2021/07/15/dati-sulla-vaccinazione-in-sicilia/" title="Dashboard realizzata da: Salvatore Fiandaca" target="_blank">Dashboard realizzata da: Salvatore Fiandaca</a>
 </p>
 
 ---
