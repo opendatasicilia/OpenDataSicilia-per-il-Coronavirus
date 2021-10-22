@@ -178,9 +178,8 @@ nav:
         - Dashboard Guenter Richter: mappe/mappa_vaccini_gjrichter.md
         - InformaCOVID | Comuni che hanno aderito: mappe/mappa_comuni_informacovid.md
     - Vaccini Sicilia: 
-        - Dashboard: vaccini/sit_vaccini.md
-        - Report vaccini: vaccini/report_03.md
-                
+       - Dashboard: vaccini/sit_vaccini.md
+       - Report vaccini: vaccini/report_03.md       
     - InformaCOVID: info_covid/informa_covid.md
 
     - About:
