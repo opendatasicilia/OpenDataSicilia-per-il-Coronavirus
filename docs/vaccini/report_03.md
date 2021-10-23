@@ -1,7 +1,9 @@
 ---
 hide:
    - toc
+social_image: img/report_03_social.png   
 ---
+
 # Sintesi Bollettino settimanale n° 3 del 20/10/2021: Dati Epidemiologici e Vaccinali
 Sorveglianza dell’epidemia COVID-19 in Sicilia
 ALLEGATO 2: Vaccinati con almeno una dose e immunizzati per provincia e comune di residenza
