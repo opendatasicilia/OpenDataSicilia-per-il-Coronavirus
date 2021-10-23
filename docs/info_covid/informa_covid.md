@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+social_image: img/info_covid.png  
 ---
 # InformaCOVID
 

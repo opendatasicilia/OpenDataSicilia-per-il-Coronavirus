@@ -1,6 +1,7 @@
 ---
 hide:
    - toc
+social_image: img/Guenter_01.png   
 ---
 # Dashboard realizzate dalla community
 
