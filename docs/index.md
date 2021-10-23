@@ -75,7 +75,7 @@ hide:
           </a>
         </div>
 	
-	<!--InformaCOVID -->
+	<!-- InformaCOVID -->
         <div class="col-lg-4 col-sm-6">
           <a class="portfolio-box" href="info_covid/informa_covid/" title="InformaCOVID | Il Kit di Comunicazione Efficace per il tuo Comune"  target="_self">
             <img class="img-fluid" src="img/info_covid.png" alt="InformaCOVID">
@@ -90,7 +90,7 @@ hide:
           </a>
         </div>
 		
-		<!--Farmacie vaccini anticovid -->
+		<!-- Farmacie vaccini anticovid -->
         <div class="col-lg-4 col-sm-6">
           <a class="portfolio-box" href="mappe/farm_vaccini_anticovid/" title="Vaccino anticovid | Farmacie aderenti alla campagna vaccinale"  target="_self">
             <img class="img-fluid" src="img/farm_vaccino.png" alt="vaccini anticovid">
@@ -105,7 +105,7 @@ hide:
           </a>
         </div>	
 		
-			<!--InformaCOVID | Comuni che hanno aderito -->
+			<!-- InformaCOVID | Comuni che hanno aderito -->
         <div class="col-lg-4 col-sm-6">
           <a class="portfolio-box" href="mappe/mappa_comuni_informacovid/" title="InformaCOVID | Comuni che hanno aderito"  target="_self">
             <img class="img-fluid" src="img/informacovid.png" alt="InformaCOVID">
@@ -120,7 +120,22 @@ hide:
           </a>
         </div>		
 		
-			<!--<github -->
+			<!-- report_03 -->
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="vaccini/report_03/" title="Sorveglianza dell’epidemia COVID-19 in Sicilia ALLEGATO 2: Vaccinati con almeno una dose e immunizzati per provincia e comune di residenza"  target="_self">
+            <img class="img-fluid" src="img/report_03.png" alt="Bollettino settimanale n° 3 del 20/10/2021">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">
+               Sorveglianza dell’epidemia COVID-19 in Sicilia
+              </div>
+              <div class="project-name">
+               Sintesi Bollettino settimanale n° 3 del 20/10/2021
+              </div>
+            </div>
+          </a>
+        </div>
+		
+					<!-- github -->
         <div class="col-lg-4 col-sm-6">
           <a class="portfolio-box" href="elaborazioni/repo_github/" title="In questa sezione vengono segnalati alcuni repository GitHub di enti pubblici e/o associazioni che condividono e rielaborano in opendata i dati #Covid19."  target="_self">
             <img class="img-fluid" src="img/github.png" alt="Repository GitHub">
