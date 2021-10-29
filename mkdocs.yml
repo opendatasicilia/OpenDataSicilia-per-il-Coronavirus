@@ -179,7 +179,8 @@ nav:
         - InformaCOVID | Comuni che hanno aderito: mappe/mappa_comuni_informacovid.md
     - Dati vaccinali: 
        - Dashboard: vaccini/sit_vaccini.md
-       - Report vaccini: vaccini/report_03.md       
+       - Report vaccini: vaccini/report_03.md   
+       - Report vaccini: vaccini/report_04.md           
     - InformaCOVID: info_covid/informa_covid.md
 
     - About:
