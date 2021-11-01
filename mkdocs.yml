@@ -124,7 +124,6 @@ markdown_extensions:
     permalink: ↵
 - meta        
 - mkdocs-click
-- md_in_html
 - pymdownx.critic:
       mode: view
 - pymdownx.tasklist:
