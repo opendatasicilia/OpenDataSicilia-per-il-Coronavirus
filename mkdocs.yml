@@ -100,7 +100,8 @@ plugins:
 # - section-index
 # - blog
 # - img2fig
-
+- minify:
+      minify_html: true
 - rss:
     abstract_chars_count: 160
     date_from_meta:
