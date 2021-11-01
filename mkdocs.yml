@@ -118,11 +118,13 @@ plugins:
         utm_medium: "RSS"
         utm_campaign: "feed-syndication"    
 
+## Extensions
 markdown_extensions:
 - toc:
     permalink: ↵
 - meta        
 - mkdocs-click
+- md_in_html
 - pymdownx.critic:
       mode: view
 - pymdownx.tasklist:
