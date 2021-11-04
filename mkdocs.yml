@@ -182,7 +182,8 @@ nav:
        - Dashboard: vaccini/sit_vaccini.md
        - Report vaccini:
          - Report N.3 20/10/2021: vaccini/report_03.md   
-         - Report N.4 27/10/2021: vaccini/report_04.md           
+         - Report N.4 27/10/2021: vaccini/report_04.md     
+         - Report N.5 04/11/2021: vaccini/report_05.md              
     - InformaCOVID: info_covid/informa_covid.md
 
     - About:
