@@ -120,36 +120,7 @@ hide:
           </a>
         </div>		
 		
-			<!-- report_03 -->
-        <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="vaccini/report_03/" title="Sorveglianza dell’epidemia COVID-19 in Sicilia ALLEGATO 2: Vaccinati con almeno una dose e immunizzati per provincia e comune di residenza"  target="_self">
-            <img class="img-fluid" src="img/report_03.png" alt="Bollettino settimanale n° 3 del 20/10/2021">
-            <div class="portfolio-box-caption">
-              <div class="project-category text-white-50">
-               Sorveglianza dell’epidemia COVID-19 in Sicilia
-              </div>
-              <div class="project-name">
-               Sintesi Bollettino settimanale n° 3 del 20/10/2021
-              </div>
-            </div>
-          </a>
-        </div>
-		
-					<!-- report_04 -->
-        <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="vaccini/report_04/" title="Sorveglianza dell’epidemia COVID-19 in Sicilia ALLEGATO 2: Vaccinati con almeno una dose e immunizzati per provincia e comune di residenza"  target="_self">
-            <img class="img-fluid" src="img/report_04_social.png" alt="Bollettino settimanale n° 4 del 27/10/2021">
-            <div class="portfolio-box-caption">
-              <div class="project-category text-white-50">
-               Sorveglianza dell’epidemia COVID-19 in Sicilia
-              </div>
-              <div class="project-name">
-               Sintesi Bollettino settimanale n° 4 del 27/10/2021
-              </div>
-            </div>
-          </a>
-        </div>
-		
+	
 							<!-- report_05 -->
         <div class="col-lg-4 col-sm-6">
           <a class="portfolio-box" href="vaccini/report_05/" title="Sorveglianza dell’epidemia COVID-19 in Sicilia ALLEGATO 2: Vaccinati con almeno una dose e immunizzati per provincia e comune di residenza"  target="_self">
