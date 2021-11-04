@@ -150,6 +150,21 @@ hide:
           </a>
         </div>
 		
+							<!-- report_05 -->
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="vaccini/report_05/" title="Sorveglianza dell’epidemia COVID-19 in Sicilia ALLEGATO 2: Vaccinati con almeno una dose e immunizzati per provincia e comune di residenza"  target="_self">
+            <img class="img-fluid" src="img/report_05_social.png" alt="Bollettino settimanale n° 5 del 04/11/2021">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">
+               Sorveglianza dell’epidemia COVID-19 in Sicilia
+              </div>
+              <div class="project-name">
+               Sintesi Bollettino settimanale n° 5 del 04/11/2021
+              </div>
+            </div>
+          </a>
+        </div>
+		
 					<!-- github -->
         <div class="col-lg-4 col-sm-6">
           <a class="portfolio-box" href="elaborazioni/repo_github/" title="In questa sezione vengono segnalati alcuni repository GitHub di enti pubblici e/o associazioni che condividono e rielaborano in opendata i dati #Covid19."  target="_self">
