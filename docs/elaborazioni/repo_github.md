@@ -37,7 +37,7 @@ Repository nato per informare i cittadini e mettere a disposizione i dati raccol
 
 L'Associazione onData a condiviso in opendata diversi repository.
 
-### Covid19Italia
+## Covid19Italia
 
 Alla data del 4 marzo 2020 - dopo circa 15 giorni dal primo caso "italiano" - **non c'è** in **Italia** una **fonte** ufficiale che pubblichi i dati in modalità ***machine readable***.
 
@@ -55,7 +55,7 @@ Sul numero di deceduti la Protezione Civile riporta che "potrà essere confermat
 
 ---
 
-### Vaccini per tutti
+## Vaccini per tutti
 
 Dati aggiornati automaticamente per l'applicazione [ondata/vaccinipertutti](https://github.com/ondata/vaccinipertutti/).
 
@@ -64,7 +64,7 @@ Dati aggiornati automaticamente per l'applicazione [ondata/vaccinipertutti](http
 	
 ---
 
-### Sicilia COVID Reports API
+## Sicilia COVID Reports API
 
 Dal 6 ottobre 2021 il Dipartimento Attività Sanitarie e Osservatorio Epidemiologico (DASOE) della Regione Siciliana rilascia bollettini settimanali (in formato PDF) ai quali sono allegate due tabelle contenenti dati epidemiologici e vaccinali con dettaglio comunale. Le tabelle allegate vengono convertite in CSV e caricate nella cartella dati di questo repo.
 
@@ -76,7 +76,7 @@ Gli stessi dati alimentano gli API endpoints documentati e raggiungibili al [seg
 
 ---
 
-### Nuts
+## Nuts
 
 La **suddivisione territoriale statistica standard** in Europa (EUROSTAT) è la [**NUTS**](https://www.wikiwand.com/it/Nomenclatura_delle_unit%C3%A0_territoriali_statistiche). In Italia è di particolare interesse in alcuni contesti, come ad esempio quello della **sanità**, per il quale il paese è suddiviso funzionalmente non nelle 20 regioni "classiche", ma nelle 21 zone `NUTS2` (il Trentino-Alto Adige suddiviso nelle due province autonome).
 
@@ -95,7 +95,7 @@ Abbiamo chiesto ad ISTAT di pubblicare file geografici anche secondo `NUTS2`: al
 	
 ---
 
-### 30cappa
+## 30cappa
 
 Il [decreto legge numero 172 del 18 dicembre 2020](https://www.gazzettaufficiale.it/eli/id/2020/12/18/20G00196/s)  -  detto in maniera un po' fastidiosa "di Natale"  -  definisce delle misure urgenti per le festività natalizie e di inizio anno nuovo.
 
