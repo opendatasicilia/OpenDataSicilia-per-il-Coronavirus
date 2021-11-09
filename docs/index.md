@@ -156,8 +156,10 @@ hide:
 	   <br>
       <hr> 
 	   <br>
- <h1> OpenDataSicilia ha aderito alla campagna <a href="https://www.datibenecomune.it/home/" title="#datibenecomune" target="_blank">#datibenecomune</a>, <a href="https://www.datibenecomune.it/partecipa/" title="#datibenecomune" target="_blank">partecipa</a></h1>	  
+ <h1> OpenDataSicilia ha aderito alla campagna <a href="https://www.datibenecomune.it/home/" title="#datibenecomune" target="_blank">#datibenecomune</a>, <a href="https://www.datibenecomune.it/partecipa/" title="#datibenecomune" target="_blank">partecipa</a></h1>
+ <img src="https://img.shields.io/github/last-commit/opendatasicilia/OpenDataSicilia-per-il-Coronavirus.svg?&label=Ultimo%20aggiornamento"> 
          </div>
+		
       </section>
   
 </body>
