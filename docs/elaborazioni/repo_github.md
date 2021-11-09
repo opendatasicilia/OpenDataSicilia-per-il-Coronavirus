@@ -113,5 +113,3 @@ Tutti i dettagli in questo post:
 
 !!! info
     **Maggiori dettagli nel repository [30cappa](https://github.com/ondata/30cappa)**
-
-	
