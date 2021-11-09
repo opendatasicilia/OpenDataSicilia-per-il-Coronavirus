@@ -64,6 +64,18 @@ Dati aggiornati automaticamente per l'applicazione [ondata/vaccinipertutti](http
 	
 ---
 
+### Sicilia COVID Reports API
+
+Dal 6 ottobre 2021 il Dipartimento Attività Sanitarie e Osservatorio Epidemiologico (DASOE) della Regione Siciliana rilascia bollettini settimanali (in formato PDF) ai quali sono allegate due tabelle contenenti dati epidemiologici e vaccinali con dettaglio comunale. Le tabelle allegate vengono convertite in CSV e caricate nella cartella dati di questo repo.
+
+Gli stessi dati alimentano gli API endpoints documentati e raggiungibili al [seguente link](https://covid-open-report-sicilia.herokuapp.com/).
+
+
+!!! info
+    **Maggiori dettagli nel repository ["COVID open report Sicilia" by OpenDataSicilia - Dati](https://github.com/opendatasicilia/covid-open-report-sicilia)**
+
+---
+
 ### Nuts
 
 La **suddivisione territoriale statistica standard** in Europa (EUROSTAT) è la [**NUTS**](https://www.wikiwand.com/it/Nomenclatura_delle_unit%C3%A0_territoriali_statistiche). In Italia è di particolare interesse in alcuni contesti, come ad esempio quello della **sanità**, per il quale il paese è suddiviso funzionalmente non nelle 20 regioni "classiche", ma nelle 21 zone `NUTS2` (il Trentino-Alto Adige suddiviso nelle due province autonome).
