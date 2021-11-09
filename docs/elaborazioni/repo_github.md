@@ -111,9 +111,6 @@ Tutti i dettagli in questo post:
 [![](https://raw.githubusercontent.com/ondata/30cappa/main/risorse/buffer05.png)](https://medium.com/tantotanto/il-decreto-di-natale-in-chilometri-8af38744a7d5)
 
 
-
-
-
 !!! info
     **Maggiori dettagli nel repository [30cappa](https://github.com/ondata/30cappa)**
 
