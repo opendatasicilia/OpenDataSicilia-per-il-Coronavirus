@@ -1,7 +1,7 @@
 ---
 hide:
    - toc
-social_image: img/report_00_social.png   
+social_image: img/report_social.png   
 ---
 
 # Report settimanale interattivo per Comune
