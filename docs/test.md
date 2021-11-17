@@ -1,9 +1,11 @@
 # test codice
 
-```
+# test codice
+
+``` html
 {% extends "base.html" %}
 
-{% block htmltitle %}
-  <title>Lorem ipsum dolor sit amet</title>
+{% block announce %}
+  <!-- Add announcement here, including arbitrary HTML -->
 {% endblock %}
 ```
