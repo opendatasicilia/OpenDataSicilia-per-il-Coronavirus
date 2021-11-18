@@ -358,3 +358,7 @@ hr  {border: 0;
 .md-tabs__linkfooter:hover {
     color: var(--md-accent-fg-color);
 }
+
+mermaid.flowchartConfig = {
+    width: 100%
+}
