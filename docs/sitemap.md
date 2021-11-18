@@ -4,7 +4,6 @@ hide:
   - navigation
   - toc
 ---
-
 # Mappa del sito
 
 ``` mermaid
