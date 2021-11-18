@@ -95,8 +95,8 @@ theme:
 plugins:
 - search:
     prebuild_index: true
-- mkdocstrings
-- autolinks
+# - mkdocstrings
+# - autolinks
 - macros 
 # - section-index
 # - blog
