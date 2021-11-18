@@ -8,20 +8,20 @@ hide:
 
 ``` mermaid
 graph TB
-A(fa:fa-home Home page&nbsp;&nbsp;) 
+A(fa:fa-home Home page&nbsp;&nbsp;&nbsp;&nbsp;) 
 A -..- B(fa:fa-file-image-o Elaborazioni);
-A -..- C(fa:fa-map Mappe&nbsp;&nbsp;);
-A -..- D(fa:fa-database Dati vaccinali&nbsp;&nbsp;);
+A -..- C(fa:fa-map Mappe&nbsp;&nbsp;&nbsp;&nbsp;);
+A -..- D(fa:fa-database Dati vaccinali&nbsp;&nbsp;&nbsp;&nbsp;);
 A -..- E(InformaCOVID);
-A -..- F(fa:fa-users About&nbsp;&nbsp;);
+A -..- F(fa:fa-users About&nbsp;&nbsp;&nbsp;&nbsp;);
 B -..- L(onData);
 L -..- M(OpenDataSicilia);
 M -..- N(fa:fa-github Repo Github);
-C -..- G(fa:fa-map Sicilia - Adesioni Campagna Vaccinale&nbsp;&nbsp;);
-G -..- H(fa:fa-tachometer Dashboard di Guenter Richter&nbsp;&nbsp;);
-H -..- I(fa:fa-map InformaCOVID - Comuni che hanno aderito&nbsp;&nbsp;);
-D -..- O(fa:fa-tachometer Dashboard&nbsp;&nbsp;)
-O -..- P(fa:fa-file-text Report vaccini&nbsp;&nbsp;)
+C -..- G(fa:fa-map Sicilia - Adesioni Campagna Vaccinale&nbsp;&nbsp;&nbsp;&nbsp;);
+G -..- H(fa:fa-tachometer Dashboard di Guenter Richter&nbsp;&nbsp;&nbsp;&nbsp;);
+H -..- I(fa:fa-map InformaCOVID - Comuni che hanno aderito&nbsp;&nbsp;&nbsp;&nbsp;);
+D -..- O(fa:fa-tachometer Dashboard&nbsp;&nbsp;&nbsp;&nbsp;)
+O -..- P(fa:fa-file-text Report vaccini&nbsp;&nbsp;&nbsp;&nbsp;)
 click A "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/" _self
 click B "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/elaborazioni/ondata/" _self
 click C "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/mappe/farm_vaccini_anticovid/" _self
