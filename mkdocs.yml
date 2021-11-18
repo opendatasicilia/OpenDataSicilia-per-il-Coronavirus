@@ -169,8 +169,7 @@ extra_css:
   
 ## Page tree
 nav:
-    - Home: index.md
-           
+    - Home: index.md    
     - Elaborazioni:
         - onData: elaborazioni/ondata.md
         - OpenDataSicilia: elaborazioni/ods.md
@@ -188,4 +187,3 @@ nav:
          - Report N.5 04/11/2021: vaccini/report_05.md              
     - InformaCOVID: info_covid/informa_covid.md
     - About: ods.md
-  
