@@ -6,43 +6,32 @@ hide:
 ---
 <body>
 <script>
-    var callback = function(){
-        alert('A callback was triggered');
-    }
-    var config = {
-        startOnLoad:true,
-        flowchart:{
-            useMaxWidth:true,
-            htmlLabels:true,
-            curve:'cardinal',
-        },
-        securityLevel:'loose',
-    };
-
-    mermaid.initialize(config);
-  </script>
+  var callback = function(){
+      alert('A callback was triggered');
+  }
+</script>
 </body>
 
 # Mappa del sito
 
 ``` mermaid
-flowchart TD
-A(fa:fa-home Home page&nbsp;) 
+graph TB
+A(fa:fa-home Home page&nbsp;&nbsp;) 
 A -..- B(fa:fa-file-image-o Elaborazioni);
-A -..- C(fa:fa-map Mappe&nbsp;);
-A -..- D(fa:fa-database Dati vaccinali&nbsp;);
+A -..- C(fa:fa-map Mappe&nbsp;&nbsp;);
+A -..- D(fa:fa-database Dati vaccinali&nbsp;&nbsp;);
 A -..- E(InformaCOVID);
-A -..- F(fa:fa-users About&nbsp;);
+A -..- F(fa:fa-users About&nbsp;&nbsp;);
 B -..- L(onData);
 L -..- M(OpenDataSicilia);
 M -..- N(fa:fa-github Repo Github);
-C -..- G(fa:fa-map Sicilia - Adesioni Campagna Vaccinale&nbsp;);
-G -..- H(fa:fa-tachometer Dashboard di Guenter Richter&nbsp;);
-H -..- I(fa:fa-map InformaCOVID - Comuni che hanno aderito&nbsp;);
-D -..- O(fa:fa-tachometer Dashboard&nbsp;)
-O -..- P(fa:fa-file-text Report vaccini&nbsp;)
+C -..- G(fa:fa-map Sicilia - Adesioni Campagna Vaccinale&nbsp;&nbsp;);
+G -..- H(fa:fa-tachometer Dashboard di Guenter Richter&nbsp;&nbsp;);
+H -..- I(fa:fa-map InformaCOVID - Comuni che hanno aderito&nbsp;&nbsp;);
+D -..- O(fa:fa-tachometer Dashboard&nbsp;&nbsp;)
+O -..- P(fa:fa-file-text Report vaccini&nbsp;&nbsp;)
 
-click A "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/" _self
+click A "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/" "Home page" _self
 click B "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/elaborazioni/ondata/" _self
 click C "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/mappe/farm_vaccini_anticovid/" _self
 click D "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/vaccini/sit_vaccini/" _self
