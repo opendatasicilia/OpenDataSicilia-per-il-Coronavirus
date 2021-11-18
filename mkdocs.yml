@@ -145,8 +145,8 @@ markdown_extensions:
 - pymdownx.superfences:
       custom_fences:
         - name: mermaid
-          class: mermaid-experimental
-          format: !!python/name:pymdownx.superfences.fence_code_format
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid
 - pymdownx.tabbed
       # alternate_style: true
 - pymdownx.tasklist:
@@ -162,6 +162,7 @@ markdown_extensions:
 ## Custom theme additions
 extra_javascript:
    - stylesheets/extra.js
+   - https://unpkg.com/mermaid/dist/mermaid.min.js
  
 extra_css:
    - stylesheets/gbextra.css
@@ -187,6 +188,7 @@ nav:
          - Report N.5 04/11/2021: vaccini/report_05.md              
     - InformaCOVID: info_covid/informa_covid.md
 
-    - About:
-        - Community: ods.md
+    - Sitemap: sitemap.md
+
+    - About: ods.md
   
