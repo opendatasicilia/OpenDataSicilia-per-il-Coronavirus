@@ -55,18 +55,18 @@ click L "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/el
 click M "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/elaborazioni/ods/" _self
 click O "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/vaccini/sit_vaccini/" _self
 click P "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/vaccini/report/" _self
-style A fill:#ff9900,stroke:#333,stroke-width:2px
-style B fill:#ff99009e,stroke:#333,stroke-width:1px
-style C fill:#ff99009e,stroke:#333,stroke-width:1px
-style D fill:#ff99009e,stroke:#333,stroke-width:1px
-style E fill:#ff99009e,stroke:#333,stroke-width:1px
-style F fill:#ff99009e,stroke:#333,stroke-width:1px
-style G fill:#ff99006b,stroke:#333,stroke-width:1px
-style H fill:#ff99006b,stroke:#333,stroke-width:1px
-style I fill:#ff99006b,stroke:#333,stroke-width:1px
-style L fill:#ff99006b,stroke:#333,stroke-width:1px
-style M fill:#ff99006b,stroke:#333,stroke-width:1px
-style N fill:#ff99006b,stroke:#333,stroke-width:1px
-style O fill:#ff99006b,stroke:#333,stroke-width:1px
-style P fill:#ff99006b,stroke:#333,stroke-width:1px
+style A fill:#ff9900,stroke:#000000DE,stroke-width:2px
+style B fill:#ff99009e,stroke:#000000DE,stroke-width:1px
+style C fill:#ff99009e,stroke:#000000DE,stroke-width:1px
+style D fill:#ff99009e,stroke:#000000DE,stroke-width:1px
+style E fill:#ff99009e,stroke:#000000DE,stroke-width:1px
+style F fill:#ff99009e,stroke:#000000DE,stroke-width:1px
+style G fill:#ff99006b,stroke:#000000DE,stroke-width:1px
+style H fill:#ff99006b,stroke:#000000DE,stroke-width:1px
+style I fill:#ff99006b,stroke:#000000DE,stroke-width:1px
+style L fill:#ff99006b,stroke:#000000DE,stroke-width:1px
+style M fill:#ff99006b,stroke:#000000DE,stroke-width:1px
+style N fill:#ff99006b,stroke:#000000DE,stroke-width:1px
+style O fill:#ff99006b,stroke:#000000DE,stroke-width:1px
+style P fill:#ff99006b,stroke:#000000DE,stroke-width:1px
 ```
