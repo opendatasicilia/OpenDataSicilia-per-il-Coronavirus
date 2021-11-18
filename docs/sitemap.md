@@ -22,7 +22,6 @@ G -..- H(fa:fa-tachometer Dashboard di Guenter Richter&nbsp;&nbsp;);
 H -..- I(fa:fa-map InformaCOVID - Comuni che hanno aderito&nbsp;&nbsp;);
 D -..- O(fa:fa-tachometer Dashboard&nbsp;&nbsp;)
 O -..- P(fa:fa-file-text Report vaccini&nbsp;&nbsp;)
-
 click A "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/" _self
 click B "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/elaborazioni/ondata/" _self
 click C "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/mappe/farm_vaccini_anticovid/" _self
