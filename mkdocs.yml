@@ -101,9 +101,6 @@ plugins:
 # - section-index
 # - blog
 # - img2fig
-- mermaid2:
-    arguments:
-      securityLevel: 'loose'
 - rss:
     abstract_chars_count: 160
     date_from_meta:

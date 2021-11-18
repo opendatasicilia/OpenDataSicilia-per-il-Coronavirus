@@ -4,14 +4,6 @@ hide:
   - navigation
   - toc
 ---
-<body>
-<script>
-  var callback = function(){
-      alert('A callback was triggered');
-  }
-</script>
-</body>
-
 # Mappa del sito
 
 ``` mermaid
@@ -31,7 +23,7 @@ H -..- I(fa:fa-map InformaCOVID - Comuni che hanno aderito&nbsp;&nbsp;);
 D -..- O(fa:fa-tachometer Dashboard&nbsp;&nbsp;)
 O -..- P(fa:fa-file-text Report vaccini&nbsp;&nbsp;)
 
-click A "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/" "Home page" _self
+click A "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/" _self
 click B "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/elaborazioni/ondata/" _self
 click C "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/mappe/farm_vaccini_anticovid/" _self
 click D "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/vaccini/sit_vaccini/" _self
