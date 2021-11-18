@@ -27,20 +27,20 @@ hide:
 
 ``` mermaid
 flowchart TD
-A(fa:fa-home Home page) 
-A -...- B(fa:fa-file-image-o Elaborazioni);
-A -...- C(fa:fa-map Mappe);
-A -...- D(fa:fa-database Dati vaccinali);
-A -...- E(InformaCOVID);
-A -...- F(fa:fa-users About);
-B -...- L(onData);
-B -...- M(OpenDataSicilia);
-B -...- N(fa:fa-github Repo Github);
-C -...- G(fa:fa-map Sicilia - Adesioni Campagna Vaccinale);
-C -...- H(fa:fa-tachometer Dashboard di Guenter Richter);
-C -...- I(fa:fa-map InformaCOVID - Mappa dei comuni che hanno aderito);
-D -...- O(fa:fa-tachometer Dashboard)
-D -...- P(fa:fa-file-text Report vaccini)
+A(fa:fa-home Home page&nbsp;) 
+A -...- B(fa:fa-file-image-o Elaborazioni&nbsp;);
+A -...- C(fa:fa-map Mappe&nbsp;);
+A -...- D(fa:fa-database Dati vaccinali&nbsp;);
+A -...- E(InformaCOVID&nbsp;);
+A -...- F(fa:fa-users About&nbsp;);
+B -...- L(onData&nbsp;);
+B -...- M(OpenDataSicilia&nbsp;);
+B -...- N(fa:fa-github Repo Github&nbsp;);
+C -...- G(fa:fa-map Sicilia - Adesioni Campagna Vaccinale&nbsp;);
+C -...- H(fa:fa-tachometer Dashboard di Guenter Richter&nbsp;);
+C -...- I(fa:fa-map InformaCOVID - Mappa dei comuni che hanno aderito&nbsp;);
+D -...- O(fa:fa-tachometer Dashboard&nbsp;)
+D -...- P(fa:fa-file-text Report vaccini&nbsp;)
 
 click A "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/" _self
 click B "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/elaborazioni/ondata/" _self
