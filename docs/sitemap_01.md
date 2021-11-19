@@ -4,27 +4,13 @@ hide:
   - navigation
   - toc
 ---
-<body>
-<script>
-    var callback = function(){
-        alert('A callback was triggered');
-    }
-    var config = {
-        startOnLoad:true,
-        flowchart:{
-            useMaxWidth:true,
-            htmlLabels:true,
-            curve:'cardinal',
-        },
-        securityLevel:'loose',
-    };
+<style> 
+.center {display: flex; justify-content: center; align-items: center; height: auto; }
+</style>
 
-    mermaid.initialize(config);
-  </script>
-</body>
 
 # Mappa del sito
-
+<div class="center"> 
 ``` mermaid
 flowchart TD
 A(fa:fa-home Home page&nbsp;) 
@@ -70,3 +56,4 @@ style N fill:#ff99006b,stroke:#000000DE,stroke-width:1px
 style O fill:#ff99006b,stroke:#000000DE,stroke-width:1px
 style P fill:#ff99006b,stroke:#000000DE,stroke-width:1px
 ```
+</div>
