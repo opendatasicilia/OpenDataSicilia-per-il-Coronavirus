@@ -37,6 +37,7 @@ click H "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/ma
 click I "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/mappe/mappa_comuni_informacovid/" _self
 click L "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/elaborazioni/ondata/" _self
 click M "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/elaborazioni/ods/" _self
+click N "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/elaborazioni/repo_github/" _self
 click O "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/vaccini/sit_vaccini/" _self
 click P "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/vaccini/report/" _self
 style A fill:#ff9900,stroke:#000000DE,stroke-width:2px
