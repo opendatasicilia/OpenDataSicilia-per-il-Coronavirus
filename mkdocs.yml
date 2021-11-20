@@ -143,10 +143,13 @@ markdown_extensions:
 - pymdownx.mark
 - pymdownx.smartsymbols
 - pymdownx.superfences:
+  #   preserve_tabs: true
       custom_fences:
+      # Mermaid diagrams
         - name: mermaid
           class: mermaid
           format: !!python/name:mermaid2.fence_mermaid
+          # info https://facelessuser.github.io/pymdown-extensions/extras/mermaid/#practical-diagrams
 - pymdownx.tabbed
       # alternate_style: true
 - pymdownx.tasklist:
@@ -162,7 +165,8 @@ markdown_extensions:
 ## Custom theme additions
 extra_javascript:
    - stylesheets/extra.js
-   - https://unpkg.com/mermaid/dist/mermaid.min.js
+#   - https://unpkg.com/mermaid/dist/mermaid.min.js
+   - https://unpkg.com/mermaid@8.8.4/dist/mermaid.min.js
  
 extra_css:
    - stylesheets/gbextra.css
