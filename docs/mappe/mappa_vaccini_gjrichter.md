@@ -5,6 +5,8 @@ social_image: img/Guenter_01.png
 ---
 <style> 
 .md-grid {max-width: 100% !important;}
+.md-header__inner { margin-left: auto; margin-right: auto; width: 65rem !important;}
+.md-tabs__list { margin-left: auto;  margin-right: auto;  max-width: 65rem!important;}
 </style>
 
 # Vaccino anticovid | Dashboard di Guenter Richter aggiornata a Giugno 2021

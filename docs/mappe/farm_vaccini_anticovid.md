@@ -5,6 +5,8 @@ social_image: img/farm_vaccino.png
 ---
 <style> 
 .md-grid {max-width: 100% !important;}
+.md-header__inner { margin-left: auto; margin-right: auto; width: 65rem !important;}
+.md-tabs__list { margin-left: auto;  margin-right: auto;  max-width: 65rem!important;}
 </style>
 
 # Sicilia | ADESIONI CAMPAGNA VACCINALE - Strutture e Farmacie | 2021
