@@ -3,6 +3,10 @@ hide:
    - toc
 social_image: img/farm_vaccino.png
 ---
+<style> 
+.md-grid {max-width: 100% !important;}
+</style>
+
 # Sicilia | ADESIONI CAMPAGNA VACCINALE - Strutture e Farmacie | 2021
 <iframe width="100%" height="800px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/it/map/adesioni-campagna-vaccinale-elenco-farmacie-palerm_650232?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false#10/37.9372/13.7000"></iframe><p><a href="//umap.openstreetmap.fr/it/map/adesioni-campagna-vaccinale-elenco-farmacie-palerm_650232">Visualizza a schermo intero</a></p>
 
