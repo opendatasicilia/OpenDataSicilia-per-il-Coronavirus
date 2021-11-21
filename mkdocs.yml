@@ -141,6 +141,7 @@ markdown_extensions:
 - pymdownx.inlinehilite
 - pymdownx.keys
 - pymdownx.mark
+- pymdownx.snippets
 - pymdownx.smartsymbols
 - pymdownx.superfences:
   #   preserve_tabs: true
@@ -159,7 +160,7 @@ markdown_extensions:
 - attr_list
 - def_list
 - abbr
-- pymdownx.snippets
+- md_in_html
 - footnotes
 
 ## Custom theme additions
