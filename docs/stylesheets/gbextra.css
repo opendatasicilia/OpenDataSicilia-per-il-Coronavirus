@@ -9,7 +9,7 @@
 
 /*.md-nav__link {padding-left: 5px;}*/
 
-/* forza il back to top a tornare in basso */
+/*Desktop -  forza il back to top a tornare in basso */
 .md-top {
     background: var(--md-primary-fg-color); 
     border-radius: 100%; 
@@ -29,7 +29,7 @@
  /*sposta più in alto il back to top in mobile se è installata la condivisione social;
  @media screen and (max-width: 1100px) { .md-top {bottom: 2.5rem!important;}} */
 
-/* back to top mobile */
+/*  Mobile back to top posione da tema */
  @media screen and (max-width: 1000px) {
 .md-top {
     background-color: var(--md-default-bg-color);
