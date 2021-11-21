@@ -2,6 +2,7 @@
 hide:
    - toc
 social_image: img/farm_vaccino.png
+---
 <style> 
 .md-grid {max-width: 100% !important;}
 .md-header__inner { margin-left: auto; margin-right: auto; width: 65rem !important;}
