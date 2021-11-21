@@ -37,3 +37,6 @@
 	text-align: right;
 	color: rgba(0, 0, 0, 0.1);
 }
+ @media screen and (max-width: 1000px) {
+.pace .pace-progress:after  {font-size: 2rem!important; top: 55px;}
+} 
