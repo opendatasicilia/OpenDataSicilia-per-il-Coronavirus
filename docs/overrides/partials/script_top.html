@@ -8,3 +8,16 @@
 <!-- eu-cookie-lawt -->
 <link href="{{ config.site_url}}stylesheets/jquery-eu-cookie-law-popup.css" rel="stylesheet" type="text/css"/>
 <script src="{{ config.site_url}}stylesheets/jquery-eu-cookie-law-popup.js"></script> 
+
+<!-- Automatic page load progress bar -->
+<link href="{{ config.site_url}}stylesheets/big-counter.css" rel="stylesheet" type="text/css"/>
+<script src="https://cdn.jsdelivr.net/npm/pace-js@latest/pace.min.js"></script>
+    <script>
+        paceOptions = {
+            ajax: true,      // disabled
+            document: true,  // activated
+            eventLag: false  // disabled
+            //target: 'article'
+            //elements: {selectors: ['.my-page']}
+        };
+    </script>
