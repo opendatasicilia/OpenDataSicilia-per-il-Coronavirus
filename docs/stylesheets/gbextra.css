@@ -16,19 +16,38 @@
     bottom: .4rem; 
     box-shadow: 0 0.2rem 0.5rem rgb(0 0 0 / 10%), 0 0.025rem 0.05rem rgb(0 0 0 / 10%); 
     color: var(--md-primary-bg-color); 
+	font-size: 0px!important; 
     float: right; 
     margin: -2.8rem .4rem .4rem;
     padding: .4rem; 
-    position: -webkit-sticky; 
+   /* position: -webkit-sticky; */
     position: sticky; 
     transform: translateY(0)!important; 
     transition: opacity 125ms,transform 125ms cubic-bezier(.4,0,.2,1),background-color 125ms; 
-    z-index: 1; 
-	font-size: 0px!important; 
-}
+    z-index: 1; }
+	
+ /*sposta più in alto il back to top in mobile se è installata la condivisione social;
+ @media screen and (max-width: 1100px) { .md-top {bottom: 2.5rem!important;}} */
 
- /*sposta più in alto il back to top in mobile se è installata la condivisione social;*/
- @media screen and (max-width: 1100px) { .md-top {bottom: 2.5rem!important;}} 
+/* back to top mobile */
+ @media screen and (max-width: 1000px) {
+.md-top {
+    background-color: var(--md-default-bg-color);
+    border-radius: 1.6rem;
+	bottom: auto!important;
+    box-shadow: 0 0.2rem 0.5rem rgb(0 0 0 / 10%), 0 0 0.05rem rgb(0 0 0 / 25%);
+    color: var(--md-default-fg-color--light);
+    font-size: .7rem!important;
+	margin:0!important;
+    margin-left: 50%!important;
+    outline: none;
+    padding: .4rem .8rem;
+    position: fixed;
+    top: 3.2rem;
+    transform: translate(-50%)!important;
+    transition: color 125ms,background-color 125ms,transform 125ms cubic-bezier(.4,0,.2,1),opacity 125ms;
+    z-index: 2;}
+} 
 
 /* Cambia il carattere dei menu */
 .md-typeset h1,
