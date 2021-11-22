@@ -1,3 +1,14 @@
+<!-- Automatic page load progress bar https://github.com/CodeByZach/pace -->
+<script src="{{ config.site_url}}stylesheets/pace/pace.min.js"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/pace-js@latest/pace.min.js"></script> -->
+<link href="{{ config.site_url}}stylesheets/pace/big-counter.css" rel="stylesheet" type="text/css"/>
+
+    <script>
+paceOptions = {
+	restartOnPushState: false
+}
+    </script>
+
 <!-- css font-awesome 4.7.0) --> 
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
 
@@ -9,19 +20,3 @@
 <link href="{{ config.site_url}}stylesheets/jquery-eu-cookie-law-popup.css" rel="stylesheet" type="text/css"/>
 <script src="{{ config.site_url}}stylesheets/jquery-eu-cookie-law-popup.js"></script> 
 
-<!-- Automatic page load progress bar https://github.com/CodeByZach/pace -->
-<script src="{{ config.site_url}}stylesheets/pace/pace.min.js"></script>
-<!-- <script src="https://cdn.jsdelivr.net/npm/pace-js@latest/pace.min.js"></script> -->
-<link href="{{ config.site_url}}stylesheets/pace/big-counter.css" rel="stylesheet" type="text/css"/>
-
-    <script>
-        paceOptions = {
-			restartOnPushState: false,
-			restartOnRequestAfter: false,
-          //  ajax: false,      // disabled
-           // document: false,  // activated
-          //  eventLag: false  // disabled
-            //target: 'article'
-            //elements: {selectors: ['.my-page']}
-        }
-    </script>
