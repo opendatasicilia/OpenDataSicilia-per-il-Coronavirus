@@ -8,7 +8,7 @@ hide:
 ## Software
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Notepad ++](https://notepad-plus-plus.org/downloads/)
-- [PicPick](https://picpick.app/it/)
+- [Screenpresso](https://www.screenpresso.com/)
 - [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/it/)
 
