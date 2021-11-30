@@ -37,6 +37,9 @@ extra:
     - icon: fontawesome/solid/rss
       link: ../feed_rss_created.xml
       name: Feed RSS
+    - icon: favicon
+      link: http://opendatasicilia.it/
+      name: opendatasicilia.it  
   analytics:
     provider: google
     property: UA-87653723-3
@@ -119,49 +122,53 @@ plugins:
         utm_campaign: "feed-syndication"    
 
 ## Extensions
+
 markdown_extensions:
 - toc:
-    permalink: ↵
-- meta        
+        permalink: ↵
+- meta
 - mkdocs-click
-- pymdownx.critic:
-      mode: view
-- pymdownx.tasklist:
-      clickable_checkbox: true
-- pymdownx.arithmatex:
-      generic: true
-- pymdownx.betterem:
-      smart_enable: all
-- pymdownx.caret
-- pymdownx.details
-- pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
 - pymdownx.highlight
 - pymdownx.inlinehilite
-- pymdownx.keys
-- pymdownx.mark
+- pymdownx.superfences
 - pymdownx.snippets
-- pymdownx.smartsymbols
 - pymdownx.superfences:
-  #   preserve_tabs: true
       custom_fences:
       # Mermaid diagrams
         - name: mermaid
           class: mermaid
           format: !!python/name:mermaid2.fence_mermaid
           # info https://facelessuser.github.io/pymdown-extensions/extras/mermaid/#practical-diagrams
-- pymdownx.tabbed
-      # alternate_style: true
-- pymdownx.tasklist:
-      custom_checkbox: true
-- pymdownx.tilde  
+- pymdownx.tabbed:
+    alternate_style: true
+- pymdownx.critic:
+      mode: view
+- pymdownx.betterem:
+      smart_enable: all
+- pymdownx.caret
+- pymdownx.mark
+- pymdownx.tilde
+- pymdownx.smartsymbols
+- pymdownx.keys
 - admonition
+- pymdownx.details
+- pymdownx.tasklist:
+      clickable_checkbox: true
+- pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 - attr_list
+- md_in_html
 - def_list
 - abbr
-- md_in_html
 - footnotes
+- tables
+
+
+
+
+
+
 
 ## Custom theme additions
 extra_javascript:
