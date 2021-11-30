@@ -152,23 +152,34 @@ table {
     table tr th :last-child, table tr td :last-child {
       margin-bottom: 0; }
 	  
+/*Tabbed extension css*/
+.md-typeset .tabbed-labels>label {
+border-bottom: .2rem solid transparent;
+font-size: 0.75rem!important;
+    font-weight: 600!important;
+}
+.md-typeset .tabbed-content {
+    width: 100%;
+    text-align: justify!important;
+    font-family: 'Roboto Mono'!important;
+	background-color: #f5f5f5;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.md-typeset .tabbed-set>input:first-child:checked~.tabbed-labels>:first-child, .md-typeset .tabbed-set>input:nth-child(2):checked~.tabbed-labels>:nth-child(2), .md-typeset .tabbed-set>input:nth-child(3):checked~.tabbed-labels>:nth-child(3), .md-typeset .tabbed-set>input:nth-child(4):checked~.tabbed-labels>:nth-child(4), .md-typeset .tabbed-set>input:nth-child(5):checked~.tabbed-labels>:nth-child(5), .md-typeset .tabbed-set>input:nth-child(6):checked~.tabbed-labels>:nth-child(6), .md-typeset .tabbed-set>input:nth-child(7):checked~.tabbed-labels>:nth-child(7), .md-typeset .tabbed-set>input:nth-child(8):checked~.tabbed-labels>:nth-child(8), .md-typeset .tabbed-set>input:nth-child(9):checked~.tabbed-labels>:nth-child(9), .md-typeset .tabbed-set>input:nth-child(10):checked~.tabbed-labels>:nth-child(10), .md-typeset .tabbed-set>input:nth-child(11):checked~.tabbed-labels>:nth-child(11), .md-typeset .tabbed-set>input:nth-child(12):checked~.tabbed-labels>:nth-child(12), .md-typeset .tabbed-set>input:nth-child(13):checked~.tabbed-labels>:nth-child(13), .md-typeset .tabbed-set>input:nth-child(14):checked~.tabbed-labels>:nth-child(14), .md-typeset .tabbed-set>input:nth-child(15):checked~.tabbed-labels>:nth-child(15), .md-typeset .tabbed-set>input:nth-child(16):checked~.tabbed-labels>:nth-child(16), .md-typeset .tabbed-set>input:nth-child(17):checked~.tabbed-labels>:nth-child(17), .md-typeset .tabbed-set>input:nth-child(18):checked~.tabbed-labels>:nth-child(18), .md-typeset .tabbed-set>input:nth-child(19):checked~.tabbed-labels>:nth-child(19), .md-typeset .tabbed-set>input:nth-child(20):checked~.tabbed-labels>:nth-child(20) {
+    border-color: var(--md-accent-fg-color);
+    color: var(--md-accent-fg-color);
+    background-color: #f5f5f5;
+    border-radius: 5px 5px 0px 0px;
+	box-shadow: 0px 1px 1.2px rgb(0 0 0 / 65%);
+}
+	  
 /*Intestazione tabella*/	  
 .md-typeset table:not([class]) th {
     background-color: rgb(240 230 74 / 75%)!important; 
     color: rgb(0 0 0 / 87%)!important; }
 /* gbvitrano*/
-
-/* Admonition settings option*/
-.md-typeset .admonition.settings, .md-typeset details.settings {
-    border-left: .22rem solid #448aff;
-}
-.md-typeset .admonition.settings>.admonition-title, .md-typeset details.settings>.admonition-title, .md-typeset details.settings>summary {
-    border-bottom: .1rem solid rgba(236, 243, 255), .1);
-    background-color: rgba(236, 243, 255), .1);
-}
-.md-typeset .admonition.settings>.admonition-title:before, .md-typeset details.settings>.admonition-title:before, .md-typeset details.settings>summary:before {
-    color: #448aff;
-    content: "settings"}
 
 
 /* Site width etc.*/
@@ -209,9 +220,6 @@ div.doc-contents:not(.first) {
 .md-footer {    background-color: var(--md-footer-fg-color);  }*/
 .md-footer { background-color:var(--md-default-bg-color); color: var(--md-default-fg-color);}
 .md-footer-meta {    background-color: var(--md-footer-bg-color);}
-
-
-
 
 /*base icona home*/
 .svg-inline--fa.fa-stack-2x { width: 1em!important;}
@@ -341,13 +349,7 @@ hr  {border: 0;
 .md-tabs__linkfooter:hover {
     color: var(--md-accent-fg-color);
 }
-/*footer
-.md-typeset :is(img,svg) {
-    height: auto;
-    max-width: 6%;}*/
-	
-/*	*/
-
+/*footer*/
 	.md-footer-copyright {
     color: var(--md-footer-fg-color--lighter)!important;
     font-size: .64rem!important;
@@ -359,4 +361,4 @@ hr  {border: 0;
 /*allinea il footer al menu tabs
 .md-footer-copyright__highlight {margin-left: .6rem;}
 .md-footer-social {text-align: right;}*/
-.md-social {text-align: right!important;}
+.md-social {text-align: right}
