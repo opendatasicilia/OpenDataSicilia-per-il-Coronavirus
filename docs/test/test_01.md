@@ -2,8 +2,8 @@
 disqus: ""
 hide:
   - navigation
-  - toc
 ---
+
 # Contenuti divisi in tab
 === "C"
 
@@ -43,6 +43,23 @@ hide:
 
     Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. 
 
+---
+	
+### Tabbed extension css for @cirospat 😜 😂😂😂
+	
+```
+/*Tabbed extension css*/
+.md-typeset .tabbed-labels { box-shadow: none!important;}
+
+.md-typeset .tabbed-labels>label {border-bottom: .2rem solid transparent; font-size: 0.75rem!important; font-weight: 600!important;	background-color: #f5f5f58c; border-radius: 5px 5px 0px 0px;	border-left: .01rem solid #dbdbdb54; border-right: .01rem solid #dbdbdb54;  border-top: .01rem solid #dbdbdb54;}
+
+.md-typeset .tabbed-content { width: 100%; text-align: justify!important; font-family: 'Roboto Mono'!important;	background-color: #f5f5f5; padding-left: 0.5rem;
+padding-right: 0.5rem; border: .01rem solid #ff990047; border-radius: 0 5px 5px 5px; box-shadow: 0px 1px 1.2px rgb(0 0 0 / 25%);}
+
+.md-typeset .tabbed-set>input:first-child:checked~.tabbed-labels>:first-child, .md-typeset .tabbed-set>input:nth-child(2):checked~.tabbed-labels>:nth-child(2), .md-typeset .tabbed-set>input:nth-child(3):checked~.tabbed-labels>:nth-child(3), .md-typeset .tabbed-set>input:nth-child(4):checked~.tabbed-labels>:nth-child(4), .md-typeset .tabbed-set>input:nth-child(5):checked~.tabbed-labels>:nth-child(5), .md-typeset .tabbed-set>input:nth-child(6):checked~.tabbed-labels>:nth-child(6), .md-typeset .tabbed-set>input:nth-child(7):checked~.tabbed-labels>:nth-child(7), .md-typeset .tabbed-set>input:nth-child(8):checked~.tabbed-labels>:nth-child(8), .md-typeset .tabbed-set>input:nth-child(9):checked~.tabbed-labels>:nth-child(9), .md-typeset .tabbed-set>input:nth-child(10):checked~.tabbed-labels>:nth-child(10), .md-typeset .tabbed-set>input:nth-child(11):checked~.tabbed-labels>:nth-child(11), .md-typeset .tabbed-set>input:nth-child(12):checked~.tabbed-labels>:nth-child(12), .md-typeset .tabbed-set>input:nth-child(13):checked~.tabbed-labels>:nth-child(13), .md-typeset .tabbed-set>input:nth-child(14):checked~.tabbed-labels>:nth-child(14), .md-typeset .tabbed-set>input:nth-child(15):checked~.tabbed-labels>:nth-child(15), .md-typeset .tabbed-set>input:nth-child(16):checked~.tabbed-labels>:nth-child(16), .md-typeset .tabbed-set>input:nth-child(17):checked~.tabbed-labels>:nth-child(17), .md-typeset .tabbed-set>input:nth-child(18):checked~.tabbed-labels>:nth-child(18), .md-typeset .tabbed-set>input:nth-child(19):checked~.tabbed-labels>:nth-child(19), .md-typeset .tabbed-set>input:nth-child(20):checked~.tabbed-labels>:nth-child(20){border-color: var(--md-accent-fg-color);  color: var(--md-accent-fg-color); background-color: #f5f5f5;    border-radius: 5px 5px 0px 0px; box-shadow: 0px 1px 1.2px rgb(0 0 0 / 65%);	border-left: .01rem solid #ff990047; border-right: .01rem solid #ff990047;  border-top: .01rem solid #ff990047;}
+
+```	
+	
 ### Aggiungere annotazioni nei blocchi di codice
 
 
@@ -61,5 +78,7 @@ theme: # (1)
 
 ---
 
-### bla bla
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+### Where does it come from?
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+
