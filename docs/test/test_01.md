@@ -45,7 +45,7 @@ hide:
 
 ---
 	
-### Tabbed extension css for @cirospat 😜 😂😂😂
+### Tabbed extension css for [@cirospat](https://twitter.com/cirospat) 😜 😂😂😂
 	
 ```
 /*Tabbed extension css*/
