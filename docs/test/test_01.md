@@ -1,7 +1,5 @@
 ---
 disqus: ""
-hide:
-  - navigation
 ---
 
 # Contenuti divisi in tab
@@ -27,7 +25,7 @@ hide:
     }
     ```
 
-### There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+## There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
 
 
 === "What is Lorem Ipsum?"
@@ -45,7 +43,7 @@ hide:
 
 ---
 	
-### Tabbed extension css for [@cirospat](https://twitter.com/cirospat) 😜 😂😂😂
+## Tabbed extension css for [@cirospat](https://twitter.com/cirospat) 😜 😂😂😂
 	
 ```
 /*Tabbed extension css*/
@@ -60,7 +58,7 @@ padding-right: 0.5rem; border: .01rem solid #ff990047; border-radius: 0 5px 5px 
 
 ```	
 	
-### Aggiungere annotazioni nei blocchi di codice
+# Aggiungere annotazioni nei blocchi di codice
 
 
 ``` yaml
@@ -78,7 +76,7 @@ theme: # (1)
 
 ---
 
-### Where does it come from?
+# Where does it come from?
 The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
 
