@@ -1,5 +1,8 @@
 ---
 disqus: ""
+hide:
+  - navigation
+  - toc
 ---
 
 # Contenuti divisi in tab
