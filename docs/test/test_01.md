@@ -95,12 +95,18 @@ There are many variations of [1]{Resta di stucco, è un barbatrucco... 😂  Res
 
 # Annotazioni su testo | Barbatrucco per [@cirospat](https://twitter.com/cirospat) 😜 😂😂😂 | Soluzione 2
 
-The standard chunk of Lorem Ipsum used since the **note** &nbsp;<a href="#" class="tip">1<span>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span></a>&nbsp; 1500s is **reproduced**&nbsp; <a href="#" class="tip">2<span>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span></a>&nbsp; below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by **Cicero**&nbsp;  <a href="#" class="tip">3<span>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span></a>&nbsp;  are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+The standard chunk of Lorem Ipsum used since the **note** &nbsp;<a href="#" class="tip">1<span>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span></a>&nbsp; 1500s is **reproduced**&nbsp; <a href="#" class="tip">2<span>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span></a>&nbsp; below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by **Cicero**&nbsp;  <a href="#" class="tip">3<span>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span></a>&nbsp;  are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.&nbsp; <label class="tooltip">4<input type="checkbox"><span>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span></label>&nbsp; The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 
-### Esempio html
+### Esempio html mouse hover
 
 ``` html
 <a href="#" class="tip">1
 <span>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco...
 Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span></a>
+``` 
+### Esempio (4) html mouse 'onclick'
+
+``` html
+<label class="tooltip">4<input type="checkbox"><span>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco...
+Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span></label>
 ``` 

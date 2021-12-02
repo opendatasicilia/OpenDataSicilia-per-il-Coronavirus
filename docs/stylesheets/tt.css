@@ -55,3 +55,104 @@ box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
     top: 10px;
     text-decoration: none
 }
+
+
+.tooltip {
+  position: relative;
+   /* border-bottom: 1px dashed;*/
+    text-decoration: none;
+	border-radius: 2ch;
+	width: max(2.2ch,100% + 1.2ch);
+	left: -.2ch;
+    margin: 0 -.4ch;
+    padding: 0 .4ch;
+	background-color: var(--md-default-fg-color--lighter);
+	font-size: .7rem;
+    font-weight: 700;
+    color: #fff;
+}
+.tooltip:hover {
+    cursor: pointer;
+    position: relative;
+	font-size: .7rem;
+    font-weight: 700;
+	text-decoration: none;
+	border-radius: 2ch;
+	width: max(2.2ch,100% + 1.2ch);
+	left: -.2ch;
+    margin: 0 -.4ch;
+    padding: 0 .4ch;
+	background-color: #ff9900;
+	color: #000
+	}
+
+.tooltip span {
+  visibility: hidden;
+     border: #c0c0c0 1px solid;
+     padding: 0.5em;
+    display: block;
+    z-index: 100;
+	 font-size: .65rem;
+	 font-weight: 200;
+  color: #000;
+  text-align: justify;
+  box-sizing: border-box;
+ border-radius: 5px 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+-webkit-box-shadow: 3px 3px rgba(0, 0, 0, 0.1);
+-moz-box-shadow: 3px 3px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff ;
+    left: 0px;
+    margin: 10px;
+    width: 400px;
+    position: absolute;
+    top: 10px;
+    text-decoration: none
+  /*
+  width: 10em;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 9;
+  top: -1em;
+  left:  100%;
+  margin-left:1em;
+  opacity: 0;
+  transition: opacity 1s;*/
+}
+.tooltip span::after {
+   border: #c0c0c0 1px solid;
+     padding: 0.5em;
+    display: block;
+    z-index: 100;
+	 font-size: .65rem;
+	 font-weight: 200;
+  color: #000;
+  text-align: justify;
+  box-sizing: border-box;
+ border-radius: 5px 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+-webkit-box-shadow: 3px 3px rgba(0, 0, 0, 0.1);
+-moz-box-shadow: 3px 3px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff ;
+    left: 0px;
+    margin: 10px;
+    width: 400px;
+    position: absolute;
+    top: 10px;
+    text-decoration: none
+}
+.tooltip input {
+  display:none;
+}
+.tooltip input:checked+span {
+  visibility: visible;
+  opacity: 1;
+}
