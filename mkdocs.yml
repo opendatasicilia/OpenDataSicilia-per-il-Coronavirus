@@ -53,7 +53,7 @@ theme:
   language: it
   features:
     - navigation.top
-    - navigation.instant
+#    - navigation.instant
     - navigation.tabs
     - toc.integrate
     - search.suggest
