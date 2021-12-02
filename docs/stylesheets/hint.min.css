@@ -14,7 +14,7 @@
     font-weight: 500;
     font-size: .7rem;
 }
-[class*=hint--]:hover {background-color: #ff9900; color: #000; cursor: help;}
+[class*=hint--]:hover {background-color: #ff9900; color: #000; cursor:pointer;}
 
 [class*=hint--]:after,[class*=hint--]:before{position:absolute;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);transform:translate3d(0,0,0);visibility:hidden;opacity:0;z-index:1000000;pointer-events:none;-webkit-transition:.3s ease;-moz-transition:.3s ease;transition:.3s ease;-webkit-transition-delay:0s;-moz-transition-delay:0s;transition-delay:0s}
 
