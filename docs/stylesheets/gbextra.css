@@ -1,6 +1,9 @@
 /* Active tab bold & color */
 /*@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");*/
 @import url("https://fontlibrary.org/face/trueno");
+/* test tooltips*/
+@import url("tt.css");
+@import url("hint.min.css");
 
 /* barra laterale toc integrata*/
 @media screen and (min-width:  76.25em){
@@ -374,3 +377,6 @@ hr  {border: 0;
 .md-footer-copyright__highlight {margin-left: .6rem;}
 .md-footer-social {text-align: right;}*/
 .md-social {text-align: right}
+
+/* tooptip*/
+
