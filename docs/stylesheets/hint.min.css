@@ -4,17 +4,19 @@
 
 [class*=hint--]{position:relative;
 /*display:inline-block;*/
-    border-radius: 5ch;
-    width: max(2.2ch,100% + 1.2ch);
-    left: .3ch;
-    margin: 0 .4ch;
+	left: -.2ch;
+    margin: 0 -.4ch;
     padding: 0 .4ch;
-    background-color: var(--md-default-fg-color--lighter);
-	color: #fff;
-    font-weight: 500;
-    font-size: .7rem;
+	font-size: 1rem;
+    font-weight: 100;
+    color: var(--md-default-fg-color--lighter);
 }
-[class*=hint--]:hover {background-color: #ff9900; color: #000; cursor:pointer;}
+[class*=hint--]:hover { 
+    cursor: pointer;
+    position: relative;
+	font-size: 1rem;
+    font-weight: 100;
+	color: var(--md-accent-fg-color);}
 
 [class*=hint--]:after,[class*=hint--]:before{position:absolute;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);transform:translate3d(0,0,0);visibility:hidden;opacity:0;z-index:1000000;pointer-events:none;-webkit-transition:.3s ease;-moz-transition:.3s ease;transition:.3s ease;-webkit-transition-delay:0s;-moz-transition-delay:0s;transition-delay:0s}
 
