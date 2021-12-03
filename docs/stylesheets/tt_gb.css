@@ -1,42 +1,48 @@
+/* http://www.menucool.com/tooltip/css-tooltip*/
 
 .gbtooltip { 
   position: relative;
    /* border-bottom: 1px dashed;
    display:inline-block;
    */
-   text-align: center;
-   border-radius: 2ch;
-	width: max(2.2ch,100% + 1.2ch);
 	left: -.2ch;
     margin: 0 -.4ch;
     padding: 0 .4ch;
-	/*background-color: var(--md-default-fg-color--lighter);*/
-    background-color: #000;
-	font-size: .8rem;
-    font-weight: 700;
-    color: #fff;
+	font-size: 1rem;
+    font-weight: 100;
+    color: var(--md-default-fg-color--lighter);
 }
 .gbtooltip:hover {
     cursor: pointer;
     position: relative;
-	font-size: .8rem;
-    font-weight: 700;
+	font-size: 1rem;
+    font-weight: 100;
 	text-decoration: none;
-	border-radius: 2ch;
-	width: max(2.2ch,100% + 1.2ch);
 	left: -.2ch;
     margin: 0 -.4ch;
     padding: 0 .4ch;
-	background-color: #ff9900;
-	color: #000;
+	color: var(--md-accent-fg-color);
 	}
-.gbtooltip span::after {
+	
+.gbtooltip h3 {margin:12px 0;}
+
+.gbtooltip .text-content {
+    padding:10px 20px;
+}
+
+.tooltip .right img {
+    width:400px;
+    border-radius:8px 8px 0 0;
+}
+
+/*	
+.gbtooltip::after {
   top: auto;
   bottom: 100%;
   margin-top: 0;
   margin-bottom: 0.5em;	
 }
-
+*/
 .gbtooltip input {
   display:none;
 }
@@ -45,9 +51,10 @@
   opacity: 1;
 }
 
-/* right */
 
-.gbtooltip .top {
+/* top */
+
+.gbtooltip  .top  {
     /*min-width:100px; */
     width:300px;
     top:-20px;
@@ -65,6 +72,7 @@
     border:1px solid #EEEEEE;box-shadow:0 1px 8px rgba(0,0,0,0.5);
     visibility:hidden; opacity:0; transition:opacity 0.8s;
 }
+
 
 .gbtooltip:hover .top {
     visibility:visible; opacity:1;

@@ -104,15 +104,28 @@ The standard chunk of Lorem Ipsum used since the **note** &nbsp;<a href="#" clas
 
 
 ### Esempio html mouse hover
-
 ``` html
 <a href="#" class="tip">➊
 <span>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco...
 Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span></a>
 ``` 
-### Esempio ➍ e ➎ html mouse 'onclick'
 
+### Esempio ➍ e ➎ html mouse 'onclick'
 ``` html
 <label class="tooltip">➍<input type="checkbox"><span>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco...
 Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span></label>
+``` 
+
+---
+
+# Annotazioni su testo | Barbatrucco per [@cirospat](https://twitter.com/cirospat) 😜 😂😂😂 | Soluzione 3 html
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
+Contrary to popular belief, Lorem Ipsum is not simply <label class="gbtooltip">➊<input type="checkbox"><span class="top"> <h3>Lorem Ipsum</h3>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span><i></i></label> random text. It &nbsp; <label class="gbtooltip">➌<input type="checkbox"><span class="left"> <h3>Lorem Ipsum</h3>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span><i></i></label>&nbsp;<br>has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature,&nbsp; <label class="gbtooltip">➎<input type="checkbox"><span class="bottom"> <h3>Lorem Ipsum</h3>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span><i></i></label>&nbsp; discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 &nbsp; <label class="gbtooltip">➎<input type="checkbox"><span class="left"> <h3>Lorem Ipsum</h3>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span><i></i></label>&nbsp;BC. This book is a treatise on &nbsp; <label class="gbtooltip">➋<input type="checkbox"><span class="right"> <h3>Lorem Ipsum</h3>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span><i></i></label>&nbsp;the theory of ethics, very popular during the Renaissance. &nbsp; <label class="gbtooltip">➏<input type="checkbox"><span class="top"> <h3>Lorem Ipsum</h3>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span><i></i></label>&nbsp;The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced &nbsp; <label class="gbtooltip">➒<input type="checkbox"><span class="right"> <h3>Lorem Ipsum</h3>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span><i></i></label>&nbsp;in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+### Esempio html mouse hover
+``` html
+<label class="gbtooltip">➒<input type="checkbox">
+<span class="right"> <h3>Lorem Ipsum</h3>Resta di stucco, è un barbatrucco... 😂  Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...Resta di stucco, è un barbatrucco ...</span><i></i></label>
 ``` 
