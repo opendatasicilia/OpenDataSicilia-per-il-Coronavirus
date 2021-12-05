@@ -238,3 +238,112 @@
     background-color:#ffffff;
     border:1px solid #EEEEEE;box-shadow:0 1px 8px rgba(0,0,0,0.5);
 }
+
+
+
+/* Popup container */
+
+.popup  { 
+  position: relative;
+   /* border-bottom: 1px dashed;
+   display:inline-block;
+   */
+	font-size: 1rem;
+    font-weight: 100;
+    color: var(--md-default-fg-color--lighter);
+}
+.popup:hover {
+    cursor: pointer;
+    position: relative;
+	font-size: 1rem;
+    font-weight: 100;
+	color: var(--md-accent-fg-color);
+	}
+/*
+.popup {
+ position: relative;
+ display: inline-block;
+ cursor: pointer;
+}/*
+
+/* The actual popup (appears on top) 
+.popup .popuptext {
+  visibility:hidden; opacity:0; transition:opacity 0.8s;
+ width: 350px;
+  background-color:#ffffff;
+color:#000000;
+font-weight:normal;
+    font-size:13px;
+ text-align: justify;
+ border-radius:5px;
+padding:10px 20px;
+ position: absolute;
+ z-index:99999999;
+ bottom: 125%;
+ left: 50%;
+ margin-left: -80px;
+ border:1px solid #EEEEEE;box-shadow:0 1px 8px rgba(0,0,0,0.5);
+}
+*/
+
+
+.popup .popuptext {
+ visibility: hidden;
+ width: 350px;
+  background-color:#ffffff;
+color:#000000;
+ text-align: justify;
+ font-weight:normal;
+    font-size:13px;
+ border-radius: 5px;
+ padding:10px 20px;
+ position: absolute;
+ z-index: 1;
+ bottom: 125%;
+ left: 50%;
+ margin-left: -80px;
+ border:1px solid #EEEEEE;box-shadow:0 1px 8px rgba(0,0,0,0.5);
+}
+
+
+
+
+
+/* Popup arrow */
+/**/
+/* Popup arrow 
+.popup .popuptext::after {
+ content: "";
+ position: absolute;
+ top: 100%;
+ left: 50%;
+ margin-left: -5px;
+ border-width: 5px;
+ border-style: solid;
+ border-color: #555 transparent transparent transparent;
+}
+*/
+
+
+
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.popup .show {
+ visibility: visible;
+ -webkit-animation: fadeIn 1s;
+ animation: fadeIn 1s
+}
+
+
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+ from {opacity: 0;}
+ to {opacity: 1;}
+}
+
+
+
+@keyframes fadeIn {
+ from {opacity: 0;}
+ to {opacity:1 ;}
+}
