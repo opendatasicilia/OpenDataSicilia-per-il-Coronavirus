@@ -136,7 +136,9 @@ plugins:
 
 markdown_extensions:
 - toc:
-        permalink: ↵
+    permalink: ↵
+    toc_depth: 3
+    
 - meta
 - mkdocs-click
 - pymdownx.highlight
@@ -186,21 +188,21 @@ extra_css:
   
 ## Page tree
 nav:
-    - Home: index.md    
-    - Elaborazioni:
+    - 🏠 Home: index.md    
+    - 📑 Elaborazioni:
         - onData: elaborazioni/ondata.md 
         - OpenDataSicilia: elaborazioni/ods.md
         - Repo GitHub: elaborazioni/repo_github.md
-    - Mappe:
-        - Sicilia | ADESIONI CAMPAGNA VACCINALE - Strutture e Farmacie | 2021 : mappe/farm_vaccini_anticovid.md
-        - Dashboard Guenter Richter: mappe/mappa_vaccini_gjrichter.md
-        - InformaCOVID | Comuni che hanno aderito: mappe/mappa_comuni_informacovid.md
-    - Dati vaccinali: 
-       - Dashboard: vaccini/sit_vaccini.md
-       - Report vaccini:
-         - Report settimanali: vaccini/report.md 
-         - Report N.3 20/10/2021: vaccini/report_03.md   
-         - Report N.4 27/10/2021: vaccini/report_04.md     
-         - Report N.5 04/11/2021: vaccini/report_05.md              
-    - InformaCOVID: info_covid/informa_covid.md
-    - About: ods.md
+    - 🗺️ Mappe:
+        - 🗺️ Sicilia | ADESIONI CAMPAGNA VACCINALE - Strutture e Farmacie | 2021 : mappe/farm_vaccini_anticovid.md
+        - 🗺️ Dashboard Guenter Richter: mappe/mappa_vaccini_gjrichter.md
+        - 🗺️ InformaCOVID | Comuni che hanno aderito: mappe/mappa_comuni_informacovid.md
+    - 📊 Dati vaccinali: 
+       - 📈 Dashboard: vaccini/sit_vaccini.md
+       - 📉 Report vaccini:
+         - 📊 Report settimanali: vaccini/report.md 
+         - 📊 Report N.3 20/10/2021: vaccini/report_03.md   
+         - 📊 Report N.4 27/10/2021: vaccini/report_04.md     
+         - 📊 Report N.5 04/11/2021: vaccini/report_05.md              
+    - 🦠 InformaCOVID: info_covid/informa_covid.md
+    - 👤 About: ods.md
