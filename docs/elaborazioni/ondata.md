@@ -1,6 +1,4 @@
----
-social_image: img/card_social_page.png
----
+
 <style>
 .md-typeset .md-typeset h1 {line-height: 0px!important;}
 .md-typeset h2 {font-size: 0px!important; line-height: 0px!important; margin: 0px!important;}
