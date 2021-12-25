@@ -1,7 +1,7 @@
 ---
 hide:
    - toc
-social_image: img/report_05_social.png   
+social_image: img/report_06_social.png   
 ---
 
 # Sintesi Bollettino settimanale n° 12 del 22/12/2021: Dati Epidemiologici e Vaccinali
