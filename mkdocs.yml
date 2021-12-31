@@ -201,9 +201,11 @@ nav:
        - 📈 Dashboard: vaccini/sit_vaccini.md
        - 📉 Report vaccini:
          - 📊 Report settimanali: vaccini/report.md 
-         - 📊 Report N.3 20/10/2021: vaccini/report_03.md   
-         - 📊 Report N.4 27/10/2021: vaccini/report_04.md     
-         - 📊 Report N.5 04/11/2021: vaccini/report_05.md    
-         - 📊 Report N.12 22/12/2021: vaccini/report_12.md            
+         - 📊 Bollettini:
+             - 📊 Report N.3 20/10/2021: vaccini/report_03.md   
+             - 📊 Report N.4 27/10/2021: vaccini/report_04.md     
+             - 📊 Report N.5 04/11/2021: vaccini/report_05.md    
+             - 📊 Report N.12 22/12/2021: vaccini/report_12.md
+         - 📊 Report Bollettini: vaccini/report_sintesi.md     
     - 🦠 InformaCOVID: info_covid/informa_covid.md
     - 👤 About: ods.md
