@@ -19,7 +19,7 @@ Vaccinati con  una dose o con almeno due dosi o con vaccino monodose distinti pe
 
 Fonte dati: <a href="https://www.regione.sicilia.it/la-regione-informa" target="_blank"> Regione Sicilia</a> in formato pdf.
 
-Grazie a [Gabriele Scalici](https://twitter.com/GabArcangelo) e [Dennis Angemi](https://twitter.com/DennisAngemi) di [@opendatasisilia](https://twitter.com/opendatasicilia) per aver liberato i dati dai pdf con il progetto: [covid-open-report-sicilia](https://github.com/opendatasicilia/covid-open-report-sicilia) [qui](https://opendatasicilia.it/2021/12/31/da-pdf-ad-api-come-abbiamo-liberato-i-dati-covid-comunali/) un post dove viene spiegata la conversione [da file .pdf ad API](https://opendatasicilia.it/2021/12/31/da-pdf-ad-api-come-abbiamo-liberato-i-dati-covid-comunali/)
+Grazie a [Gabriele Scalici](https://twitter.com/GabArcangelo) e [Dennis Angemi](https://twitter.com/DennisAngemi) di [@opendatasisilia](https://twitter.com/opendatasicilia) per aver liberato i dati dai pdf con il progetto: [covid-open-report-sicilia](https://github.com/opendatasicilia/covid-open-report-sicilia), [qui](https://opendatasicilia.it/2021/12/31/da-pdf-ad-api-come-abbiamo-liberato-i-dati-covid-comunali/) un post dove viene spiegata la conversione [da file .pdf ad API](https://opendatasicilia.it/2021/12/31/da-pdf-ad-api-come-abbiamo-liberato-i-dati-covid-comunali/)
 
 
  
