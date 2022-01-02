@@ -1,7 +1,7 @@
 ---
 hide:
    - toc
-social_image: img/report_sintesi_02_social.png   
+social_image: img/report_sintesi_03_social.png   
 ---
 
 
