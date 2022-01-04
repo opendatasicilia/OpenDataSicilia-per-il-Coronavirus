@@ -135,21 +135,22 @@ hide:
             </div>
           </a>
         </div>
-											
- 		<!-- API Covid -->
+		
+		
+		<!-- API Covid -->
         <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="vaccini/report/" title="Sicilia | COVID Reports API"  target="_self">
-            <img class="img-fluid" src="img/api_covid.png" alt="Sicilia | COVID Reports API>
+          <a class="portfolio-box" href="vaccini/report" title="Sicilia | COVID Reports API"  target="_self">
+            <img class="img-fluid" src="img/api_covid.png " alt="Sicilia | COVID Reports API">
             <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
                Sicilia | COVID Reports API
               </div>
               <div class="project-name">
-               Da PDF ad API: come abbiamo liberato i dati COVID comunali
+              Come abbiamo liberato i dati COVID comunali
               </div>
             </div>
           </a>
-        </div>
+        </div>		
 
 					<!-- github -->
         <div class="col-lg-4 col-sm-6">
