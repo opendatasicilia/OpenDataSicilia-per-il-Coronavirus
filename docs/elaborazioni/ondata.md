@@ -1,3 +1,6 @@
+---
+social_image: img/card_sicilia.png
+---
 
 <style>
 .md-typeset .md-typeset h1 {line-height: 0px!important;}

@@ -3,14 +3,9 @@ hide:
    - toc
 social_image: img/report_sintesi_social_03.png  
 ---
-
-
-
-
-
 # Bollettini Covid 19 | Dati Epidemiologici e Vaccinali - Regione Sicilia
 Sorveglianza dell’epidemia COVID-19 in Sicilia
-Vaccinati con  una dose o con almeno due dosi o con vaccino monodose distinti per Comune, Azienda U.S.L. e Distretto sanitario.
+Andamento temporale e analisi geografica della popolazione che ha ricevuto  una dose di vaccino o con vaccinazione completa (almeno due dosi o con vaccino monodose) distinti per Comune, Azienda U.S.L. e Distretto sanitario.
 
 
 <body> 
@@ -18,6 +13,11 @@ Vaccinati con  una dose o con almeno due dosi o con vaccino monodose distinti pe
 </body>
 
 Fonte dati: <a href="https://www.regione.sicilia.it/la-regione-informa" target="_blank"> Regione Sicilia</a> in formato pdf.
+
+<hr>
+
+### Disclaimer
+Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili. Data la natura esclusivamente informativa degli elaborati grafici e dei testi riportati, questi non costituiscono atti ufficiali. <br>Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.
 
 Grazie a [Gabriele Scalici](https://twitter.com/GabArcangelo) e [Dennis Angemi](https://twitter.com/DennisAngemi) di [@opendatasisilia](https://twitter.com/opendatasicilia) per aver liberato i dati dai pdf con il progetto: [covid-open-report-sicilia](https://github.com/opendatasicilia/covid-open-report-sicilia), [qui](https://opendatasicilia.it/2021/12/31/da-pdf-ad-api-come-abbiamo-liberato-i-dati-covid-comunali/) un post dove viene spiegata la conversione [da file .pdf ad API](https://opendatasicilia.it/2021/12/31/da-pdf-ad-api-come-abbiamo-liberato-i-dati-covid-comunali/)
 

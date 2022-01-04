@@ -121,32 +121,31 @@ hide:
         </div>		
 		
 	
-							<!-- report_05 -->
+		<!-- report_settimanali -->
         <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="vaccini/report_05/" title="Sorveglianza dell’epidemia COVID-19 in Sicilia ALLEGATO 2: Vaccinati con almeno una dose e immunizzati per provincia e comune di residenza"  target="_self">
-            <img class="img-fluid" src="img/report_05_social.png" alt="Bollettino settimanale n° 5 del 04/11/2021">
+          <a class="portfolio-box" href="vaccini/report_sintesi" title="Andamento temporale e analisi geografica della popolazione che ha ricevuto  una dose di vaccino o con vaccinazione completa (almeno due dosi o con vaccino monodose) distinti per Comune, Azienda U.S.L. e Distretto sanitario."  target="_self">
+            <img class="img-fluid" src="img/report_sintesi_social_03.png " alt="Bollettini Covid 19 | Dati Epidemiologici e Vaccinali - Regione Sicilia">
             <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
                Sorveglianza dell’epidemia COVID-19 in Sicilia
               </div>
               <div class="project-name">
-               Sintesi Bollettino settimanale n° 5 del 04/11/2021
+               Bollettini Covid 19 | Dati Epidemiologici e Vaccinali - Regione Sicilia
               </div>
             </div>
           </a>
         </div>
-		
-		
-									<!-- report_settimanali -->
+											
+ 		<!-- API Covid -->
         <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="vaccini/report/" title="Report settimanale interattivo per Comune | Dati Epidemiologici e Vaccinali - Regione Sicilia "  target="_self">
-            <img class="img-fluid" src="img/report_social.png" alt="Report settimanale interattivo per Comune">
+          <a class="portfolio-box" href="vaccini/report/" title="Sicilia | COVID Reports API"  target="_self">
+            <img class="img-fluid" src="img/api_covid.png" alt="Sicilia | COVID Reports API>
             <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
-               Sorveglianza dell’epidemia COVID-19 in Sicilia
+               Sicilia | COVID Reports API
               </div>
               <div class="project-name">
-               Report settimanale interattivo per Comune
+               Da PDF ad API: come abbiamo liberato i dati COVID comunali
               </div>
             </div>
           </a>

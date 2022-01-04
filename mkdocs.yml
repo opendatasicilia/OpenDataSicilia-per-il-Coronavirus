@@ -200,7 +200,7 @@ nav:
     - 📊 Dati vaccinali: 
        - 📈 Dashboard: vaccini/sit_vaccini.md
        - 📉 Report vaccini:
-         - 📊 Report settimanali: vaccini/report.md 
+         - 📊 COVID Reports API: vaccini/report.md 
          - 📊 Report Bollettini: vaccini/report_sintesi.md
          - 📊 Singoli Bollettini:
              - 📊 Report N.3 20/10/2021: vaccini/report_03.md   
