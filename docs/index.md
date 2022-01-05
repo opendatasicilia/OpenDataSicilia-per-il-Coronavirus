@@ -150,7 +150,22 @@ hide:
               </div>
             </div>
           </a>
-        </div>		
+        </div>	
+		
+				<!-- MoniVAX -->
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="vaccini/monivax" title="Sicilia |  Monitora i vaccini della tua città"  target="_self">
+            <img class="img-fluid" src="img/monivax.png   " alt="Sicilia |  Monitora i vaccini della tua città">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">
+               Sicilia | MoniVAX
+              </div>
+              <div class="project-name">
+              Monitora i vaccini della tua città
+              </div>
+            </div>
+          </a>
+        </div>	
 
 					<!-- github -->
         <div class="col-lg-4 col-sm-6">
