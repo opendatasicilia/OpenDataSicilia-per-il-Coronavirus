@@ -4,7 +4,7 @@ hide:
 social_image: img/vac_zone.png   
 ---
 
-# 2021 - Comuni siciliani attualmente in zona rossa, arancione, gialla e vaccini
+# 2022 - Comuni siciliani attualmente in zona rossa, arancione, gialla e vaccini
 
 La Regione Siciliana pubblica le ordinanze per le zone rosse solo tramite PDF (spesso sono fotocopie) e sono raccolte nel [sito ufficiale](http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE) nella sezione SERVIZI INFORMATIVI | [ORDINANZE COVID-19](http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione)).<br>
 Per ovviare a questi brutti PDF, **[Totò Fiandaca](https://twitter.com/totofiandaca)** ha creato un [foglio elettronico](https://docs.google.com/spreadsheets/d/14f2AUf3k3jP60sPkUhzqhSIFlTEuUFCfac9b-1_29jc/edit#gid=1669181736) dove ha scritto, dopo aver aperto uno ad uno tutte le ordinanze del 2021, i comuni in zona rossa e relativo intervallo temporale, compreso anche di eventuale proroga e link al PDF.
