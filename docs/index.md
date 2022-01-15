@@ -136,6 +136,21 @@ hide:
           </a>
         </div>
 		
+				<!-- Ordinanzr regionali covid19 -->
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="vaccini/sit_vaccini_zone/" title="Ordinanze Regionali per Comuni soggetti a misure restrittive per l'emergenza epidemiologica"  target="_self">
+            <img class="img-fluid" src="img/zona_arancione.png " alt="Ordinanze Regionali Covid 19 | Comuni soggetti a misure restrittive">
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">
+               Ordinanze Regionali | Misure restrittive Covid 19
+              </div>
+              <div class="project-name">
+               Ordinanze Regionali per Comuni soggetti a misure restrittive per l'emergenza epidemiologica
+              </div>
+            </div>
+          </a>
+        </div>
+		
 		
 		<!-- API Covid -->
         <div class="col-lg-4 col-sm-6">
