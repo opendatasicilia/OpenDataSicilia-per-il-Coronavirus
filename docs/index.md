@@ -48,7 +48,7 @@ hide:
         </div>
 	<!--Elaborazioni OpendDataSicilia zone rosse  -->
         <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="elaborazioni/ods/" title="Elaborazioni OpendDataSicilia | Comuni siciliani attualmente in zona rossa | 2021"  target="_self">
+          <a class="portfolio-box" href="elaborazioni/ods/" title="Elaborazioni OpendDataSicilia | Comuni siciliani attualmente in zona rossa | 2022"  target="_self">
             <img class="img-fluid" src="img/zone_rosse.png" alt="InformaCOVID">
             <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
