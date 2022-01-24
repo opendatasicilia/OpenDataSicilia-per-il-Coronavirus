@@ -193,6 +193,7 @@ nav:
         - onData: elaborazioni/ondata.md 
         - OpenDataSicilia: elaborazioni/ods.md
         - Repo GitHub: elaborazioni/repo_github.md
+        - Misure di contenimento (zone): elaborazioni/zone.md
     - 🗺️ Mappe:
         - 🗺️ Sicilia | ADESIONI CAMPAGNA VACCINALE - Strutture e Farmacie | 2021 : mappe/farm_vaccini_anticovid.md
         - 🗺️ Dashboard Guenter Richter: mappe/mappa_vaccini_gjrichter.md
