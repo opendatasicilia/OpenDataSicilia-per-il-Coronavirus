@@ -154,7 +154,7 @@ hide:
 					<!-- Italia zone covid19 -->
         <div class="col-lg-4 col-sm-6">
           <a class="portfolio-box" href="elaborazioni/zone/" title="Italia | Misure restrittive Covid 19 per Regioni soggette a misure restrittive per l'emergenza epidemiologica"  target="_self">
-            <img class="img-fluid" src="img/zone.png " alt="Italia | Misure restrittive Covid 19">
+            <img class="img-fluid" src="img/social_card_zone.png " alt="Italia | Misure restrittive Covid 19">
             <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
                Italia | Misure restrittive Covid 19

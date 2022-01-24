@@ -1,7 +1,7 @@
 ---
 hide:
    - toc
-social_image: img/zone.png  
+social_image: img/social_card_zone.png 
 ---
 # Italia Covid 19 | Regioni soggette a misure restrittive per l'emergenza epidemiologica
 
