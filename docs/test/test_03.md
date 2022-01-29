@@ -28,6 +28,16 @@ Esempio:
 <style>
 .md-typeset ul  {list-style-type: lower-latin!important;}
 </style>
+
+- First item
+	- Second item
+- Third item
+- Fourth item
+	- Third item
+	- Fourth item
+	- Third item
+- Fourth ite
+
 ```
 Riferimenti...
 ## [CSS list-style-type Property](https://www.w3schools.com/cssref/pr_list-style-type.asp)
