@@ -16,7 +16,7 @@ copyright: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it" titl
 extra:
   manifest: "manifest.webmanifest"
   social:
-    - icon: fontawesome/solid/home
+    - icon: fontawesome/solid/house
       link: https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/
       name: Home Page
     - icon: fontawesome/brands/twitter
