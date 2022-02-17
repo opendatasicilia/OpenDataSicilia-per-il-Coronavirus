@@ -106,6 +106,8 @@ theme:
   
 
 plugins:
+- tags:
+    tags_file: tags.md
 - search:
     prebuild_index: true
 # - mkdocstrings
@@ -146,12 +148,10 @@ markdown_extensions:
 - pymdownx.superfences
 - pymdownx.snippets
 - pymdownx.superfences:
-      custom_fences:
-      # Mermaid diagrams
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:mermaid2.fence_mermaid
-          # info https://facelessuser.github.io/pymdown-extensions/extras/mermaid/#practical-diagrams
+    custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format
 - pymdownx.tabbed:
     alternate_style: true
 - pymdownx.critic:
@@ -212,3 +212,4 @@ nav:
          - 📊 MoniVAX: vaccini/monivax.md              
     - 🦠 InformaCOVID: info_covid/informa_covid.md
     - 👤 About: ods.md
+    - 🏷️ Tags: tags.md

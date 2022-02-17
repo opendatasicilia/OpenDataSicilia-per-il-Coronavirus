@@ -2,6 +2,10 @@
 hide:
    - toc
 social_image: img/farm_vaccino.png
+tags: 
+  - vaccini
+  - farmacia
+  - tampone
 ---
 <style> 
 .md-grid {max-width: 100% !important;}

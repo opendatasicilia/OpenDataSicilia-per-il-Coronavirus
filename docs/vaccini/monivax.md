@@ -2,6 +2,12 @@
 hide:
    - toc
 social_image: img/monivax.png   
+tags: 
+  - vaccini
+  - dashboard
+  - bollettini
+  - dasoe
+  - report
 ---
 # MoniVAX | Monitora i vaccini della tua città
 

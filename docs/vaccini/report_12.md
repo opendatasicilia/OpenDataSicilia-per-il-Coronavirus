@@ -2,6 +2,12 @@
 hide:
    - toc
 social_image: img/report_06_social.png   
+tags: 
+  - vaccini
+  - dashboard
+  - bollettini
+  - dasoe
+  - report
 ---
 
 # Sintesi Bollettino settimanale n° 12 del 22/12/2021: Dati Epidemiologici e Vaccinali

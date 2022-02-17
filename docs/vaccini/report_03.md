@@ -1,7 +1,13 @@
 ---
 hide:
    - toc
-social_image: img/report_03_social.png   
+social_image: img/report_03_social.png  
+tags: 
+  - vaccini
+  - dashboard
+  - bollettini
+  - dasoe
+  - report
 ---
 
 # Sintesi Bollettino settimanale n° 3 del 20/10/2021: Dati Epidemiologici e Vaccinali

@@ -2,6 +2,8 @@
 hide:
    - toc
 social_image: img/Guenter_01.png
+tags: 
+  - vaccini
 ---
 <style> 
 .md-grid {max-width: 100% !important;}

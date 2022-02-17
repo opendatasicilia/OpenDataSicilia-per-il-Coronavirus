@@ -1,5 +1,14 @@
 ---
 social_image: img/zone_rosse.png
+tags: 
+  - vaccini
+  - dashboard
+  - bollettini
+  - dasoe
+  - report 
+  - zone rosse
+  - misure restrittive
+  - ordinanze regionali
 ---
 <style>
 .md-typeset .md-typeset h1 {line-height: 0px!important;}

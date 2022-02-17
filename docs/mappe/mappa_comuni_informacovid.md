@@ -2,6 +2,9 @@
 hide:
    - toc
 social_image: img/informacovid.png
+tags: 
+  - informacovid
+  - comuni
 ---
 <style> 
 .md-grid {max-width: 100% !important;}

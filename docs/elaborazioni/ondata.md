@@ -1,5 +1,14 @@
 ---
 social_image: img/card_sicilia.png
+tags: 
+  - Incidenza cumulativa
+  - dashboard
+  - bollettini
+  - Ricoverati
+  - posti letto 
+  - zone rosse
+  - misure restrittive
+  - terapia intensiva
 ---
 
 <style>

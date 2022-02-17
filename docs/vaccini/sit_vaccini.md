@@ -1,7 +1,13 @@
 ---
 hide:
    - toc
-social_image: img/Guenter_01.png   
+social_image: img/Guenter_01.png
+tags: 
+  - vaccini
+  - dashboard
+  - bollettini
+  - dasoe
+  - report
 ---
 # Dashboard realizzate dalla community
 

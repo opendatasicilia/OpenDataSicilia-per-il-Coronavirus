@@ -2,6 +2,12 @@
 hide:
    - toc
 social_image: img/report_sintesi_social_03.png  
+tags: 
+  - vaccini
+  - dashboard
+  - bollettini
+  - dasoe
+  - report
 ---
 # Bollettini Covid 19 | Dati Epidemiologici e Vaccinali - Regione Sicilia
 Sorveglianza dell’epidemia COVID-19 in Sicilia

@@ -2,6 +2,13 @@
 hide:
    - toc
 social_image: img/social_card_zone.png 
+tags: 
+  - dashboard
+  - report 
+  - zone rosse
+  - misure restrittive
+  - ordinanze
+  - dpcm
 ---
 # Italia Covid 19 | Regioni soggette a misure restrittive per l'emergenza epidemiologica
 

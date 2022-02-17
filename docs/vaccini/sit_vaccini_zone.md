@@ -1,7 +1,16 @@
 ---
 hide:
    - toc
-social_image: img/vac_zone.png   
+social_image: img/vac_zone.png  
+tags: 
+  - vaccini
+  - dashboard
+  - bollettini
+  - dasoe
+  - report 
+  - zone rosse
+  - misure restrittive
+  - ordinanze regionali
 ---
 
 # Covid-19 | 2022 - Ordinanze Regionali per Comuni soggetti a misure restrittive per l'emergenza epidemiologica

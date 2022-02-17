@@ -2,7 +2,12 @@
 hide:
   - navigation
   - toc
-social_image: img/info_covid.png  
+social_image: img/info_covid.png 
+tags: 
+  - Covid19
+  - dati
+  - dashboard
+  - Comuni
 ---
 # InformaCOVID
 

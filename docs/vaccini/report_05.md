@@ -2,6 +2,12 @@
 hide:
    - toc
 social_image: img/report_05_social.png   
+tags: 
+  - vaccini
+  - dashboard
+  - bollettini
+  - dasoe
+  - report
 ---
 
 # Sintesi Bollettino settimanale n° 5 del 04/11/2021: Dati Epidemiologici e Vaccinali

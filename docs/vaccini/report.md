@@ -2,6 +2,13 @@
 hide:
    - toc
 social_image: img/api_covid.png.png   
+tags: 
+  - vaccini
+  - dashboard
+  - bollettini
+  - dasoe
+  - report
+  - api
 ---
 
 # Sicilia | COVID Reports API
