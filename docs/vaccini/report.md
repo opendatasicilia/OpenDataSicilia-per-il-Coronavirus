@@ -23,7 +23,7 @@ Subito la comunità di OpenDataSicilia si è mossa per chiedere delucidazioni ri
 
 
 <body> 
-<iframe width="100%" height="2200" src="https://dasoe-report.netlify.app/" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="100%" height="2250" src="https://dasoe-report.netlify.app/" frameborder="0" style="border:0" allowfullscreen></iframe>
 </body>
 
 <hr>
