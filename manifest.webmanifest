@@ -1,0 +1,10 @@
+{
+    "name": "OpenDataSicilia per il #Coronavirus",
+    "short_name": "OpenDataSicilia per il #Coronavirus",
+    "start_url": "https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Quando i dati sono disponibili (open, machine readable e con la licenza giusta) ciascuno di noi può dare libero sfogo alle proprie competenze e alla propria fantasia per far parlare quei dati al meglio, scegliendo o creando la rappresentazione che ritiene più efficace per evidenziare quelli che si ritengono gli aspetti salienti. ",
+    "lang": "it-IT",
+    "theme_color": "white"
+}
